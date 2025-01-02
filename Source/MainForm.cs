@@ -27,19 +27,8 @@ namespace eft_dma_radar
         private readonly System.Timers.Timer mapChangeTimer = new(900);
         private List<Map> maps = new();
         private static readonly string[] FONTS_TO_USE = {
-            "Arial",
-            "Calibri",
-            "Candara",
-            "Consolas",
-            "Constantia",
-            "Corbel",
-            "Helvetica",
-            "Lato",
-            "Roboto",
-            "Segoe UI",
-            "Tahoma",
-            "Trebuchet MS",
-            "Verdana",
+            "Microsoft YaHei UI",
+            "Arial"
         };
 
         private bool isFreeMapToggled = false;

@@ -537,7 +537,7 @@
             // swExfilNames
             // 
             swExfilNames.Depth = 0;
-            swExfilNames.Font = new Font("Segoe UI", 9F);
+            swExfilNames.Font = new Font("Microsoft YaHei UI", 9F);
             swExfilNames.Location = new Point(173, 51);
             swExfilNames.Margin = new Padding(0);
             swExfilNames.MouseLocation = new Point(-1, -1);
@@ -571,7 +571,7 @@
             // swAimview
             // 
             swAimview.Depth = 0;
-            swAimview.Font = new Font("Segoe UI", 9F);
+            swAimview.Font = new Font("Microsoft YaHei UI", 9F);
             swAimview.Location = new Point(15, 51);
             swAimview.Margin = new Padding(0);
             swAimview.MouseLocation = new Point(-1, -1);
@@ -591,7 +591,7 @@
             btnRestartRadar.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             btnRestartRadar.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnRestartRadar.Depth = 0;
-            btnRestartRadar.Font = new Font("Segoe UI", 8F);
+            btnRestartRadar.Font = new Font("Microsoft YaHei UI", 8F);
             btnRestartRadar.HighEmphasis = true;
             btnRestartRadar.Icon = null;
             btnRestartRadar.Location = new Point(331, 87);
@@ -633,7 +633,7 @@
             // swMapHelper
             // 
             swMapHelper.Depth = 0;
-            swMapHelper.Font = new Font("Segoe UI", 9F);
+            swMapHelper.Font = new Font("Microsoft YaHei UI", 9F);
             swMapHelper.Location = new Point(15, 51);
             swMapHelper.Margin = new Padding(0);
             swMapHelper.MouseLocation = new Point(-1, -1);
@@ -650,7 +650,7 @@
             // swMasterSwitch
             // 
             swMasterSwitch.Depth = 0;
-            swMasterSwitch.Font = new Font("Segoe UI", 9F);
+            swMasterSwitch.Font = new Font("Microsoft YaHei UI", 9F);
             swMasterSwitch.Location = new Point(15, 16);
             swMasterSwitch.Margin = new Padding(0);
             swMasterSwitch.MouseLocation = new Point(-1, -1);
@@ -667,7 +667,7 @@
             // swInfiniteStamina
             // 
             swInfiniteStamina.Depth = 0;
-            swInfiniteStamina.Font = new Font("Segoe UI", 9F);
+            swInfiniteStamina.Font = new Font("Microsoft YaHei UI", 9F);
             swInfiniteStamina.Location = new Point(17, 51);
             swInfiniteStamina.Margin = new Padding(0);
             swInfiniteStamina.MouseLocation = new Point(-1, -1);
@@ -719,7 +719,7 @@
             // swExtendedReach
             // 
             swExtendedReach.Depth = 0;
-            swExtendedReach.Font = new Font("Segoe UI", 9F);
+            swExtendedReach.Font = new Font("Microsoft YaHei UI", 9F);
             swExtendedReach.Location = new Point(15, 232);
             swExtendedReach.Margin = new Padding(0);
             swExtendedReach.MouseLocation = new Point(-1, -1);
@@ -736,7 +736,7 @@
             // swFreezeTime
             // 
             swFreezeTime.Depth = 0;
-            swFreezeTime.Font = new Font("Segoe UI", 9F);
+            swFreezeTime.Font = new Font("Microsoft YaHei UI", 9F);
             swFreezeTime.Location = new Point(15, 96);
             swFreezeTime.Margin = new Padding(0);
             swFreezeTime.MouseLocation = new Point(-1, -1);
@@ -753,7 +753,7 @@
             // swNightVision
             // 
             swNightVision.Depth = 0;
-            swNightVision.Font = new Font("Segoe UI", 9F);
+            swNightVision.Font = new Font("Microsoft YaHei UI", 9F);
             swNightVision.Location = new Point(388, 176);
             swNightVision.Margin = new Padding(0);
             swNightVision.MouseLocation = new Point(-1, -1);
@@ -770,7 +770,7 @@
             // swOpticalThermal
             // 
             swOpticalThermal.Depth = 0;
-            swOpticalThermal.Font = new Font("Segoe UI", 9F);
+            swOpticalThermal.Font = new Font("Microsoft YaHei UI", 9F);
             swOpticalThermal.Location = new Point(201, 176);
             swOpticalThermal.Margin = new Padding(0);
             swOpticalThermal.MouseLocation = new Point(-1, -1);
@@ -787,7 +787,7 @@
             // swThermalVision
             // 
             swThermalVision.Depth = 0;
-            swThermalVision.Font = new Font("Segoe UI", 9F);
+            swThermalVision.Font = new Font("Microsoft YaHei UI", 9F);
             swThermalVision.Location = new Point(22, 176);
             swThermalVision.Margin = new Padding(0);
             swThermalVision.MouseLocation = new Point(-1, -1);
@@ -822,7 +822,7 @@
             // swNoVisor
             // 
             swNoVisor.Depth = 0;
-            swNoVisor.Font = new Font("Segoe UI", 9F);
+            swNoVisor.Font = new Font("Microsoft YaHei UI", 9F);
             swNoVisor.Location = new Point(388, 134);
             swNoVisor.Margin = new Padding(0);
             swNoVisor.MouseLocation = new Point(-1, -1);
@@ -839,7 +839,7 @@
             // swInstantADS
             // 
             swInstantADS.Depth = 0;
-            swInstantADS.Font = new Font("Segoe UI", 9F);
+            swInstantADS.Font = new Font("Microsoft YaHei UI", 9F);
             swInstantADS.Location = new Point(23, 134);
             swInstantADS.Margin = new Padding(0);
             swInstantADS.MouseLocation = new Point(-1, -1);
@@ -856,7 +856,7 @@
             // swRecoil
             // 
             swRecoil.Depth = 0;
-            swRecoil.Font = new Font("Segoe UI", 9F);
+            swRecoil.Font = new Font("Microsoft YaHei UI", 9F);
             swRecoil.Location = new Point(23, 46);
             swRecoil.Margin = new Padding(0);
             swRecoil.MouseLocation = new Point(-1, -1);
@@ -879,7 +879,7 @@
             cboThermalColorScheme.DropDownHeight = 118;
             cboThermalColorScheme.DropDownStyle = ComboBoxStyle.DropDownList;
             cboThermalColorScheme.DropDownWidth = 121;
-            cboThermalColorScheme.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboThermalColorScheme.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboThermalColorScheme.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboThermalColorScheme.FormattingEnabled = true;
             cboThermalColorScheme.Hint = "Color Scheme";
@@ -906,7 +906,7 @@
             cboThermalType.DropDownHeight = 118;
             cboThermalType.DropDownStyle = ComboBoxStyle.DropDownList;
             cboThermalType.DropDownWidth = 121;
-            cboThermalType.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboThermalType.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboThermalType.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboThermalType.FormattingEnabled = true;
             cboThermalType.Hint = "Type";
@@ -965,7 +965,7 @@
             // swCorpses
             // 
             swCorpses.Depth = 0;
-            swCorpses.Font = new Font("Segoe UI", 9F);
+            swCorpses.Font = new Font("Microsoft YaHei UI", 9F);
             swCorpses.Location = new Point(177, 96);
             swCorpses.Margin = new Padding(0);
             swCorpses.MouseLocation = new Point(-1, -1);
@@ -982,7 +982,7 @@
             // swFilteredOnly
             // 
             swFilteredOnly.Depth = 0;
-            swFilteredOnly.Font = new Font("Segoe UI", 9F);
+            swFilteredOnly.Font = new Font("Microsoft YaHei UI", 9F);
             swFilteredOnly.Location = new Point(177, 51);
             swFilteredOnly.Margin = new Padding(0);
             swFilteredOnly.MouseLocation = new Point(-1, -1);
@@ -999,7 +999,7 @@
             // swSubItems
             // 
             swSubItems.Depth = 0;
-            swSubItems.Font = new Font("Segoe UI", 9F);
+            swSubItems.Font = new Font("Microsoft YaHei UI", 9F);
             swSubItems.Location = new Point(330, 51);
             swSubItems.Margin = new Padding(0);
             swSubItems.MouseLocation = new Point(-1, -1);
@@ -1016,7 +1016,7 @@
             // swItemValue
             // 
             swItemValue.Depth = 0;
-            swItemValue.Font = new Font("Segoe UI", 9F);
+            swItemValue.Font = new Font("Microsoft YaHei UI", 9F);
             swItemValue.Location = new Point(330, 96);
             swItemValue.Margin = new Padding(0);
             swItemValue.MouseLocation = new Point(-1, -1);
@@ -1033,7 +1033,7 @@
             // swAutoLootRefresh
             // 
             swAutoLootRefresh.Depth = 0;
-            swAutoLootRefresh.Font = new Font("Segoe UI", 9F);
+            swAutoLootRefresh.Font = new Font("Microsoft YaHei UI", 9F);
             swAutoLootRefresh.Location = new Point(15, 142);
             swAutoLootRefresh.Margin = new Padding(0);
             swAutoLootRefresh.MouseLocation = new Point(-1, -1);
@@ -1053,7 +1053,7 @@
             btnRefreshLoot.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             btnRefreshLoot.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnRefreshLoot.Depth = 0;
-            btnRefreshLoot.Font = new Font("Segoe UI", 8F);
+            btnRefreshLoot.Font = new Font("Microsoft YaHei UI", 8F);
             btnRefreshLoot.HighEmphasis = true;
             btnRefreshLoot.Icon = null;
             btnRefreshLoot.Location = new Point(493, 51);
@@ -1079,7 +1079,7 @@
             cboAutoRefreshMap.DropDownHeight = 118;
             cboAutoRefreshMap.DropDownStyle = ComboBoxStyle.DropDownList;
             cboAutoRefreshMap.DropDownWidth = 121;
-            cboAutoRefreshMap.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboAutoRefreshMap.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboAutoRefreshMap.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboAutoRefreshMap.FormattingEnabled = true;
             cboAutoRefreshMap.Hint = "Map";
@@ -1243,7 +1243,7 @@
             txtTeammateID.BackgroundImageLayout = ImageLayout.None;
             txtTeammateID.CharacterCasing = CharacterCasing.Normal;
             txtTeammateID.Depth = 0;
-            txtTeammateID.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtTeammateID.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtTeammateID.HideSelection = true;
             txtTeammateID.Hint = "Teammate ID";
             txtTeammateID.LeadingIcon = null;
@@ -1274,7 +1274,7 @@
             txtFactionEntryName.BackgroundImageLayout = ImageLayout.None;
             txtFactionEntryName.CharacterCasing = CharacterCasing.Normal;
             txtFactionEntryName.Depth = 0;
-            txtFactionEntryName.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtFactionEntryName.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtFactionEntryName.HideSelection = true;
             txtFactionEntryName.Hint = "Name";
             txtFactionEntryName.LeadingIcon = null;
@@ -1306,7 +1306,7 @@
             txtFactionName.BackgroundImageLayout = ImageLayout.None;
             txtFactionName.CharacterCasing = CharacterCasing.Normal;
             txtFactionName.Depth = 0;
-            txtFactionName.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtFactionName.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtFactionName.HideSelection = true;
             txtFactionName.Hint = "Faction Name";
             txtFactionName.LeadingIcon = null;
@@ -1341,7 +1341,7 @@
             cboFactionType.DropDownHeight = 118;
             cboFactionType.DropDownStyle = ComboBoxStyle.DropDownList;
             cboFactionType.DropDownWidth = 121;
-            cboFactionType.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboFactionType.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboFactionType.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboFactionType.FormattingEnabled = true;
             cboFactionType.Hint = "Faction Type";
@@ -1364,7 +1364,7 @@
             btnResetTheme.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             btnResetTheme.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnResetTheme.Depth = 0;
-            btnResetTheme.Font = new Font("Segoe UI", 8F);
+            btnResetTheme.Font = new Font("Microsoft YaHei UI", 8F);
             btnResetTheme.HighEmphasis = true;
             btnResetTheme.Icon = null;
             btnResetTheme.Location = new Point(74, 309);
@@ -1387,7 +1387,7 @@
             btnMapSetupApply.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             btnMapSetupApply.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnMapSetupApply.Depth = 0;
-            btnMapSetupApply.Font = new Font("Segoe UI", 8F);
+            btnMapSetupApply.Font = new Font("Microsoft YaHei UI", 8F);
             btnMapSetupApply.HighEmphasis = true;
             btnMapSetupApply.Icon = null;
             btnMapSetupApply.Location = new Point(369, 51);
@@ -1410,7 +1410,7 @@
             txtMapSetupScale.BackgroundImageLayout = ImageLayout.None;
             txtMapSetupScale.CharacterCasing = CharacterCasing.Normal;
             txtMapSetupScale.Depth = 0;
-            txtMapSetupScale.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtMapSetupScale.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtMapSetupScale.HelperText = "Scale";
             txtMapSetupScale.HideSelection = true;
             txtMapSetupScale.Hint = "Scale";
@@ -1442,7 +1442,7 @@
             txtMapSetupY.BackgroundImageLayout = ImageLayout.None;
             txtMapSetupY.CharacterCasing = CharacterCasing.Normal;
             txtMapSetupY.Depth = 0;
-            txtMapSetupY.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtMapSetupY.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtMapSetupY.HelperText = "Y";
             txtMapSetupY.HideSelection = true;
             txtMapSetupY.Hint = "Y";
@@ -1474,7 +1474,7 @@
             txtMapSetupX.BackgroundImageLayout = ImageLayout.None;
             txtMapSetupX.CharacterCasing = CharacterCasing.Normal;
             txtMapSetupX.Depth = 0;
-            txtMapSetupX.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtMapSetupX.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtMapSetupX.HelperText = "X";
             txtMapSetupX.HideSelection = true;
             txtMapSetupX.Hint = "X";
@@ -1549,7 +1549,7 @@
             txtWatchlistAccountID.BackgroundImageLayout = ImageLayout.None;
             txtWatchlistAccountID.CharacterCasing = CharacterCasing.Normal;
             txtWatchlistAccountID.Depth = 0;
-            txtWatchlistAccountID.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtWatchlistAccountID.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtWatchlistAccountID.HideSelection = true;
             txtWatchlistAccountID.Hint = "Account ID";
             txtWatchlistAccountID.LeadingIcon = null;
@@ -1581,7 +1581,7 @@
             txtWatchlistProfileName.BackgroundImageLayout = ImageLayout.None;
             txtWatchlistProfileName.CharacterCasing = CharacterCasing.Normal;
             txtWatchlistProfileName.Depth = 0;
-            txtWatchlistProfileName.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtWatchlistProfileName.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtWatchlistProfileName.HideSelection = true;
             txtWatchlistProfileName.Hint = "Profile Name";
             txtWatchlistProfileName.LeadingIcon = null;
@@ -1676,7 +1676,7 @@
             txtWatchlistTag.BackgroundImageLayout = ImageLayout.None;
             txtWatchlistTag.CharacterCasing = CharacterCasing.Normal;
             txtWatchlistTag.Depth = 0;
-            txtWatchlistTag.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtWatchlistTag.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtWatchlistTag.HideSelection = true;
             txtWatchlistTag.Hint = "Tag";
             txtWatchlistTag.LeadingIcon = null;
@@ -1708,7 +1708,7 @@
             txtWatchlistPlatformUsername.BackgroundImageLayout = ImageLayout.None;
             txtWatchlistPlatformUsername.CharacterCasing = CharacterCasing.Normal;
             txtWatchlistPlatformUsername.Depth = 0;
-            txtWatchlistPlatformUsername.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtWatchlistPlatformUsername.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtWatchlistPlatformUsername.HideSelection = true;
             txtWatchlistPlatformUsername.Hint = "Platform Username";
             txtWatchlistPlatformUsername.LeadingIcon = null;
@@ -1817,7 +1817,7 @@
             cboLootFilterItemsToAdd.DropDownHeight = 727;
             cboLootFilterItemsToAdd.DropDownStyle = ComboBoxStyle.DropDownList;
             cboLootFilterItemsToAdd.DropDownWidth = 121;
-            cboLootFilterItemsToAdd.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboLootFilterItemsToAdd.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboLootFilterItemsToAdd.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboLootFilterItemsToAdd.FormattingEnabled = true;
             cboLootFilterItemsToAdd.Hint = "要添加的项目";
@@ -1839,7 +1839,7 @@
             txtLootFilterItemToSearch.BackgroundImageLayout = ImageLayout.None;
             txtLootFilterItemToSearch.CharacterCasing = CharacterCasing.Normal;
             txtLootFilterItemToSearch.Depth = 0;
-            txtLootFilterItemToSearch.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtLootFilterItemToSearch.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtLootFilterItemToSearch.HideSelection = true;
             txtLootFilterItemToSearch.Hint = "输入搜索项目...";
             txtLootFilterItemToSearch.LeadingIcon = null;
@@ -1913,7 +1913,7 @@
             txtLootFilterName.BackgroundImageLayout = ImageLayout.None;
             txtLootFilterName.CharacterCasing = CharacterCasing.Normal;
             txtLootFilterName.Depth = 0;
-            txtLootFilterName.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtLootFilterName.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtLootFilterName.HideSelection = true;
             txtLootFilterName.Hint = "Filter Name";
             txtLootFilterName.LeadingIcon = null;
@@ -1942,7 +1942,7 @@
             // swLootFilterActive
             // 
             swLootFilterActive.Depth = 0;
-            swLootFilterActive.Font = new Font("Segoe UI", 9F);
+            swLootFilterActive.Font = new Font("Microsoft YaHei UI", 9F);
             swLootFilterActive.Location = new Point(384, 153);
             swLootFilterActive.Margin = new Padding(0);
             swLootFilterActive.MouseLocation = new Point(-1, -1);
@@ -2001,7 +2001,7 @@
             // swMaxEndurance
             // 
             swMaxEndurance.Depth = 0;
-            swMaxEndurance.Font = new Font("Segoe UI", 9F);
+            swMaxEndurance.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxEndurance.Location = new Point(15, 51);
             swMaxEndurance.Margin = new Padding(0);
             swMaxEndurance.MouseLocation = new Point(-1, -1);
@@ -2018,7 +2018,7 @@
             // swMaxStrength
             // 
             swMaxStrength.Depth = 0;
-            swMaxStrength.Font = new Font("Segoe UI", 9F);
+            swMaxStrength.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxStrength.Location = new Point(174, 51);
             swMaxStrength.Margin = new Padding(0);
             swMaxStrength.MouseLocation = new Point(-1, -1);
@@ -2035,7 +2035,7 @@
             // swMaxVitality
             // 
             swMaxVitality.Depth = 0;
-            swMaxVitality.Font = new Font("Segoe UI", 9F);
+            swMaxVitality.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxVitality.Location = new Point(375, 51);
             swMaxVitality.Margin = new Padding(0);
             swMaxVitality.MouseLocation = new Point(-1, -1);
@@ -2052,7 +2052,7 @@
             // swMaxHealth
             // 
             swMaxHealth.Depth = 0;
-            swMaxHealth.Font = new Font("Segoe UI", 9F);
+            swMaxHealth.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxHealth.Location = new Point(15, 96);
             swMaxHealth.Margin = new Padding(0);
             swMaxHealth.MouseLocation = new Point(-1, -1);
@@ -2069,7 +2069,7 @@
             // swMaxStressResistance
             // 
             swMaxStressResistance.Depth = 0;
-            swMaxStressResistance.Font = new Font("Segoe UI", 9F);
+            swMaxStressResistance.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxStressResistance.Location = new Point(174, 96);
             swMaxStressResistance.Margin = new Padding(0);
             swMaxStressResistance.MouseLocation = new Point(-1, -1);
@@ -2086,7 +2086,7 @@
             // swMaxMetabolism
             // 
             swMaxMetabolism.Depth = 0;
-            swMaxMetabolism.Font = new Font("Segoe UI", 9F);
+            swMaxMetabolism.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxMetabolism.Location = new Point(375, 96);
             swMaxMetabolism.Margin = new Padding(0);
             swMaxMetabolism.MouseLocation = new Point(-1, -1);
@@ -2103,7 +2103,7 @@
             // swMaxImmunity
             // 
             swMaxImmunity.Depth = 0;
-            swMaxImmunity.Font = new Font("Segoe UI", 9F);
+            swMaxImmunity.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxImmunity.Location = new Point(15, 142);
             swMaxImmunity.Margin = new Padding(0);
             swMaxImmunity.MouseLocation = new Point(-1, -1);
@@ -2120,7 +2120,7 @@
             // swMaxPerception
             // 
             swMaxPerception.Depth = 0;
-            swMaxPerception.Font = new Font("Segoe UI", 9F);
+            swMaxPerception.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxPerception.Location = new Point(174, 142);
             swMaxPerception.Margin = new Padding(0);
             swMaxPerception.MouseLocation = new Point(-1, -1);
@@ -2137,7 +2137,7 @@
             // swMaxIntellect
             // 
             swMaxIntellect.Depth = 0;
-            swMaxIntellect.Font = new Font("Segoe UI", 9F);
+            swMaxIntellect.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxIntellect.Location = new Point(375, 142);
             swMaxIntellect.Margin = new Padding(0);
             swMaxIntellect.MouseLocation = new Point(-1, -1);
@@ -2154,7 +2154,7 @@
             // swMaxThrowables
             // 
             swMaxThrowables.Depth = 0;
-            swMaxThrowables.Font = new Font("Segoe UI", 9F);
+            swMaxThrowables.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxThrowables.Location = new Point(375, 187);
             swMaxThrowables.Margin = new Padding(0);
             swMaxThrowables.MouseLocation = new Point(-1, -1);
@@ -2171,7 +2171,7 @@
             // swMaxSurgery
             // 
             swMaxSurgery.Depth = 0;
-            swMaxSurgery.Font = new Font("Segoe UI", 9F);
+            swMaxSurgery.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxSurgery.Location = new Point(15, 232);
             swMaxSurgery.Margin = new Padding(0);
             swMaxSurgery.MouseLocation = new Point(-1, -1);
@@ -2188,7 +2188,7 @@
             // swMaxCovertMovement
             // 
             swMaxCovertMovement.Depth = 0;
-            swMaxCovertMovement.Font = new Font("Segoe UI", 9F);
+            swMaxCovertMovement.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxCovertMovement.Location = new Point(174, 187);
             swMaxCovertMovement.Margin = new Padding(0);
             swMaxCovertMovement.MouseLocation = new Point(-1, -1);
@@ -2205,7 +2205,7 @@
             // swMaxSearch
             // 
             swMaxSearch.Depth = 0;
-            swMaxSearch.Font = new Font("Segoe UI", 9F);
+            swMaxSearch.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxSearch.Location = new Point(174, 232);
             swMaxSearch.Margin = new Padding(0);
             swMaxSearch.MouseLocation = new Point(-1, -1);
@@ -2222,7 +2222,7 @@
             // swMaxMagDrills
             // 
             swMaxMagDrills.Depth = 0;
-            swMaxMagDrills.Font = new Font("Segoe UI", 9F);
+            swMaxMagDrills.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxMagDrills.Location = new Point(375, 232);
             swMaxMagDrills.Margin = new Padding(0);
             swMaxMagDrills.MouseLocation = new Point(-1, -1);
@@ -2239,7 +2239,7 @@
             // swMaxLightVests
             // 
             swMaxLightVests.Depth = 0;
-            swMaxLightVests.Font = new Font("Segoe UI", 9F);
+            swMaxLightVests.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxLightVests.Location = new Point(15, 278);
             swMaxLightVests.Margin = new Padding(0);
             swMaxLightVests.MouseLocation = new Point(-1, -1);
@@ -2256,7 +2256,7 @@
             // swMaxHeavyVests
             // 
             swMaxHeavyVests.Depth = 0;
-            swMaxHeavyVests.Font = new Font("Segoe UI", 9F);
+            swMaxHeavyVests.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxHeavyVests.Location = new Point(174, 278);
             swMaxHeavyVests.Margin = new Padding(0);
             swMaxHeavyVests.MouseLocation = new Point(-1, -1);
@@ -2273,7 +2273,7 @@
             // swMaxAttention
             // 
             swMaxAttention.Depth = 0;
-            swMaxAttention.Font = new Font("Segoe UI", 9F);
+            swMaxAttention.Font = new Font("Microsoft YaHei UI", 9F);
             swMaxAttention.Location = new Point(17, 187);
             swMaxAttention.Margin = new Padding(0);
             swMaxAttention.MouseLocation = new Point(-1, -1);
@@ -2290,7 +2290,7 @@
             // swProcessLoot
             // 
             swProcessLoot.Depth = 0;
-            swProcessLoot.Font = new Font("Segoe UI", 9F);
+            swProcessLoot.Font = new Font("Microsoft YaHei UI", 9F);
             swProcessLoot.Location = new Point(15, 51);
             swProcessLoot.Margin = new Padding(0);
             swProcessLoot.MouseLocation = new Point(-1, -1);
@@ -2307,7 +2307,7 @@
             // swRadarStats
             // 
             swRadarStats.Depth = 0;
-            swRadarStats.Font = new Font("Segoe UI", 9F);
+            swRadarStats.Font = new Font("Microsoft YaHei UI", 9F);
             swRadarStats.Location = new Point(15, 96);
             swRadarStats.Margin = new Padding(0);
             swRadarStats.MouseLocation = new Point(-1, -1);
@@ -2324,7 +2324,7 @@
             // swRadarVsync
             // 
             swRadarVsync.Depth = 0;
-            swRadarVsync.Font = new Font("Segoe UI", 9F);
+            swRadarVsync.Font = new Font("Microsoft YaHei UI", 9F);
             swRadarVsync.Location = new Point(172, 51);
             swRadarVsync.Margin = new Padding(0);
             swRadarVsync.MouseLocation = new Point(-1, -1);
@@ -2341,7 +2341,7 @@
             // swRadarEnemyCount
             // 
             swRadarEnemyCount.Depth = 0;
-            swRadarEnemyCount.Font = new Font("Segoe UI", 9F);
+            swRadarEnemyCount.Font = new Font("Microsoft YaHei UI", 9F);
             swRadarEnemyCount.Location = new Point(172, 96);
             swRadarEnemyCount.Margin = new Padding(0);
             swRadarEnemyCount.MouseLocation = new Point(-1, -1);
@@ -2383,7 +2383,7 @@
             cboGlobalFont.DropDownHeight = 292;
             cboGlobalFont.DropDownStyle = ComboBoxStyle.DropDownList;
             cboGlobalFont.DropDownWidth = 121;
-            cboGlobalFont.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboGlobalFont.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboGlobalFont.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboGlobalFont.FormattingEnabled = true;
             cboGlobalFont.Hint = "Global Font";
@@ -2403,7 +2403,7 @@
             // swChams
             // 
             swChams.Depth = 0;
-            swChams.Font = new Font("Segoe UI", 9F);
+            swChams.Font = new Font("Microsoft YaHei UI", 9F);
             swChams.Location = new Point(15, 51);
             swChams.Margin = new Padding(0);
             swChams.MouseLocation = new Point(-1, -1);
@@ -2420,7 +2420,7 @@
             // swChamsPMCs
             // 
             swChamsPMCs.Depth = 0;
-            swChamsPMCs.Font = new Font("Segoe UI", 9F);
+            swChamsPMCs.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsPMCs.Location = new Point(135, 51);
             swChamsPMCs.Margin = new Padding(0);
             swChamsPMCs.MouseLocation = new Point(-1, -1);
@@ -2437,7 +2437,7 @@
             // swChamsBosses
             // 
             swChamsBosses.Depth = 0;
-            swChamsBosses.Font = new Font("Segoe UI", 9F);
+            swChamsBosses.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsBosses.Location = new Point(405, 51);
             swChamsBosses.Margin = new Padding(0);
             swChamsBosses.MouseLocation = new Point(-1, -1);
@@ -2454,7 +2454,7 @@
             // swChamsRogues
             // 
             swChamsRogues.Depth = 0;
-            swChamsRogues.Font = new Font("Segoe UI", 9F);
+            swChamsRogues.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsRogues.Location = new Point(246, 96);
             swChamsRogues.Margin = new Padding(0);
             swChamsRogues.MouseLocation = new Point(-1, -1);
@@ -2471,7 +2471,7 @@
             // swChamsCultists
             // 
             swChamsCultists.Depth = 0;
-            swChamsCultists.Font = new Font("Segoe UI", 9F);
+            swChamsCultists.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsCultists.Location = new Point(15, 96);
             swChamsCultists.Margin = new Padding(0);
             swChamsCultists.MouseLocation = new Point(-1, -1);
@@ -2488,7 +2488,7 @@
             // swChamsScavs
             // 
             swChamsScavs.Depth = 0;
-            swChamsScavs.Font = new Font("Segoe UI", 9F);
+            swChamsScavs.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsScavs.Location = new Point(135, 96);
             swChamsScavs.Margin = new Padding(0);
             swChamsScavs.MouseLocation = new Point(-1, -1);
@@ -2505,7 +2505,7 @@
             // swChamsTeammates
             // 
             swChamsTeammates.Depth = 0;
-            swChamsTeammates.Font = new Font("Segoe UI", 9F);
+            swChamsTeammates.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsTeammates.Location = new Point(135, 142);
             swChamsTeammates.Margin = new Padding(0);
             swChamsTeammates.MouseLocation = new Point(-1, -1);
@@ -2522,7 +2522,7 @@
             // swChamsCorpses
             // 
             swChamsCorpses.Depth = 0;
-            swChamsCorpses.Font = new Font("Segoe UI", 9F);
+            swChamsCorpses.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsCorpses.Location = new Point(15, 142);
             swChamsCorpses.Margin = new Padding(0);
             swChamsCorpses.MouseLocation = new Point(-1, -1);
@@ -2539,7 +2539,7 @@
             // swChamsRevert
             // 
             swChamsRevert.Depth = 0;
-            swChamsRevert.Font = new Font("Segoe UI", 9F);
+            swChamsRevert.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsRevert.Location = new Point(288, 142);
             swChamsRevert.Margin = new Padding(0);
             swChamsRevert.MouseLocation = new Point(-1, -1);
@@ -2556,7 +2556,7 @@
             // swChamsPlayerScavs
             // 
             swChamsPlayerScavs.Depth = 0;
-            swChamsPlayerScavs.Font = new Font("Segoe UI", 9F);
+            swChamsPlayerScavs.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsPlayerScavs.Location = new Point(246, 51);
             swChamsPlayerScavs.Margin = new Padding(0);
             swChamsPlayerScavs.MouseLocation = new Point(-1, -1);
@@ -2576,7 +2576,7 @@
             btnPingSelectedItem.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             btnPingSelectedItem.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnPingSelectedItem.Depth = 0;
-            btnPingSelectedItem.Font = new Font("Segoe UI", 8F);
+            btnPingSelectedItem.Font = new Font("Microsoft YaHei UI", 8F);
             btnPingSelectedItem.HighEmphasis = true;
             btnPingSelectedItem.Icon = null;
             btnPingSelectedItem.Location = new Point(415, 193);
@@ -2599,7 +2599,7 @@
             txtLootItemFilter.BackgroundImageLayout = ImageLayout.None;
             txtLootItemFilter.CharacterCasing = CharacterCasing.Normal;
             txtLootItemFilter.Depth = 0;
-            txtLootItemFilter.Font = new Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            txtLootItemFilter.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             txtLootItemFilter.HideSelection = true;
             txtLootItemFilter.Hint = "Type to search for an item...";
             txtLootItemFilter.LeadingIcon = null;
@@ -2724,7 +2724,7 @@
             // swTimeScale
             // 
             swTimeScale.Depth = 0;
-            swTimeScale.Font = new Font("Segoe UI", 9F);
+            swTimeScale.Font = new Font("Microsoft YaHei UI", 9F);
             swTimeScale.Location = new Point(15, 142);
             swTimeScale.Margin = new Padding(0);
             swTimeScale.MouseLocation = new Point(-1, -1);
@@ -2759,7 +2759,7 @@
             // swLootThroughWalls
             // 
             swLootThroughWalls.Depth = 0;
-            swLootThroughWalls.Font = new Font("Segoe UI", 9F);
+            swLootThroughWalls.Font = new Font("Microsoft YaHei UI", 9F);
             swLootThroughWalls.Location = new Point(15, 187);
             swLootThroughWalls.Margin = new Padding(0);
             swLootThroughWalls.MouseLocation = new Point(-1, -1);
@@ -2776,7 +2776,7 @@
             // swNoWeaponMalfunctions
             // 
             swNoWeaponMalfunctions.Depth = 0;
-            swNoWeaponMalfunctions.Font = new Font("Segoe UI", 9F);
+            swNoWeaponMalfunctions.Font = new Font("Microsoft YaHei UI", 9F);
             swNoWeaponMalfunctions.Location = new Point(201, 221);
             swNoWeaponMalfunctions.Margin = new Padding(0);
             swNoWeaponMalfunctions.MouseLocation = new Point(-1, -1);
@@ -2793,7 +2793,7 @@
             // swPvEMode
             // 
             swPvEMode.Depth = 0;
-            swPvEMode.Font = new Font("Segoe UI", 9F);
+            swPvEMode.Font = new Font("Microsoft YaHei UI", 9F);
             swPvEMode.Location = new Point(329, 51);
             swPvEMode.Margin = new Padding(0);
             swPvEMode.MouseLocation = new Point(-1, -1);
@@ -2835,7 +2835,7 @@
             cboPlayerInfoType.DropDownHeight = 292;
             cboPlayerInfoType.DropDownStyle = ComboBoxStyle.DropDownList;
             cboPlayerInfoType.DropDownWidth = 121;
-            cboPlayerInfoType.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboPlayerInfoType.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboPlayerInfoType.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboPlayerInfoType.FormattingEnabled = true;
             cboPlayerInfoType.Hint = "Faction";
@@ -2856,7 +2856,7 @@
             // swPlayerInfoName
             // 
             swPlayerInfoName.Depth = 0;
-            swPlayerInfoName.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoName.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoName.Location = new Point(17, 112);
             swPlayerInfoName.Margin = new Padding(0);
             swPlayerInfoName.MouseLocation = new Point(-1, -1);
@@ -2873,7 +2873,7 @@
             // swPlayerInfoActiveWeapon
             // 
             swPlayerInfoActiveWeapon.Depth = 0;
-            swPlayerInfoActiveWeapon.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoActiveWeapon.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoActiveWeapon.Location = new Point(117, 280);
             swPlayerInfoActiveWeapon.Margin = new Padding(0);
             swPlayerInfoActiveWeapon.MouseLocation = new Point(-1, -1);
@@ -2890,7 +2890,7 @@
             // swPlayerInfoGroup
             // 
             swPlayerInfoGroup.Depth = 0;
-            swPlayerInfoGroup.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoGroup.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoGroup.Location = new Point(291, 325);
             swPlayerInfoGroup.Margin = new Padding(0);
             swPlayerInfoGroup.MouseLocation = new Point(-1, -1);
@@ -2907,7 +2907,7 @@
             // swPlayerInfoFlags
             // 
             swPlayerInfoFlags.Depth = 0;
-            swPlayerInfoFlags.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoFlags.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoFlags.Location = new Point(17, 280);
             swPlayerInfoFlags.Margin = new Padding(0);
             swPlayerInfoFlags.MouseLocation = new Point(-1, -1);
@@ -2924,7 +2924,7 @@
             // swPlayerInfoValue
             // 
             swPlayerInfoValue.Depth = 0;
-            swPlayerInfoValue.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoValue.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoValue.Location = new Point(169, 325);
             swPlayerInfoValue.Margin = new Padding(0);
             swPlayerInfoValue.MouseLocation = new Point(-1, -1);
@@ -2941,7 +2941,7 @@
             // swPlayerInfoHeight
             // 
             swPlayerInfoHeight.Depth = 0;
-            swPlayerInfoHeight.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoHeight.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoHeight.Location = new Point(127, 112);
             swPlayerInfoHeight.Margin = new Padding(0);
             swPlayerInfoHeight.MouseLocation = new Point(-1, -1);
@@ -2958,7 +2958,7 @@
             // swPlayerInfoDistance
             // 
             swPlayerInfoDistance.Depth = 0;
-            swPlayerInfoDistance.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoDistance.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoDistance.Location = new Point(250, 112);
             swPlayerInfoDistance.Margin = new Padding(0);
             swPlayerInfoDistance.MouseLocation = new Point(-1, -1);
@@ -2975,7 +2975,7 @@
             // swPlayerInfoHealth
             // 
             swPlayerInfoHealth.Depth = 0;
-            swPlayerInfoHealth.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoHealth.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoHealth.Location = new Point(412, 325);
             swPlayerInfoHealth.Margin = new Padding(0);
             swPlayerInfoHealth.MouseLocation = new Point(-1, -1);
@@ -3011,7 +3011,7 @@
             // swPlayerInfoAimline
             // 
             swPlayerInfoAimline.Depth = 0;
-            swPlayerInfoAimline.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoAimline.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoAimline.Location = new Point(17, 169);
             swPlayerInfoAimline.Margin = new Padding(0);
             swPlayerInfoAimline.MouseLocation = new Point(-1, -1);
@@ -3047,7 +3047,7 @@
             // swPlayerInfoTag
             // 
             swPlayerInfoTag.Depth = 0;
-            swPlayerInfoTag.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoTag.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoTag.Location = new Point(534, 325);
             swPlayerInfoTag.Margin = new Padding(0);
             swPlayerInfoTag.MouseLocation = new Point(-1, -1);
@@ -3070,7 +3070,7 @@
             cboPlayerInfoFlagsFont.DropDownHeight = 292;
             cboPlayerInfoFlagsFont.DropDownStyle = ComboBoxStyle.DropDownList;
             cboPlayerInfoFlagsFont.DropDownWidth = 121;
-            cboPlayerInfoFlagsFont.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboPlayerInfoFlagsFont.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboPlayerInfoFlagsFont.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboPlayerInfoFlagsFont.FormattingEnabled = true;
             cboPlayerInfoFlagsFont.Hint = "Flags Font";
@@ -3134,7 +3134,7 @@
             cboPlayerInfoFont.DropDownHeight = 292;
             cboPlayerInfoFont.DropDownStyle = ComboBoxStyle.DropDownList;
             cboPlayerInfoFont.DropDownWidth = 121;
-            cboPlayerInfoFont.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboPlayerInfoFont.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboPlayerInfoFont.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboPlayerInfoFont.FormattingEnabled = true;
             cboPlayerInfoFont.Hint = "Font";
@@ -3154,7 +3154,7 @@
             // swPlayerInfoThermal
             // 
             swPlayerInfoThermal.Depth = 0;
-            swPlayerInfoThermal.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoThermal.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoThermal.Location = new Point(288, 281);
             swPlayerInfoThermal.Margin = new Padding(0);
             swPlayerInfoThermal.MouseLocation = new Point(-1, -1);
@@ -3171,7 +3171,7 @@
             // swPlayerInfoNightVision
             // 
             swPlayerInfoNightVision.Depth = 0;
-            swPlayerInfoNightVision.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoNightVision.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoNightVision.Location = new Point(412, 281);
             swPlayerInfoNightVision.Margin = new Padding(0);
             swPlayerInfoNightVision.MouseLocation = new Point(-1, -1);
@@ -3188,7 +3188,7 @@
             // swPlayerInfoAmmoType
             // 
             swPlayerInfoAmmoType.Depth = 0;
-            swPlayerInfoAmmoType.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoAmmoType.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoAmmoType.Location = new Point(17, 325);
             swPlayerInfoAmmoType.Margin = new Padding(0);
             swPlayerInfoAmmoType.MouseLocation = new Point(-1, -1);
@@ -3227,7 +3227,7 @@
             // swContainers
             // 
             swContainers.Depth = 0;
-            swContainers.Font = new Font("Segoe UI", 9F);
+            swContainers.Font = new Font("Microsoft YaHei UI", 9F);
             swContainers.Location = new Point(15, 51);
             swContainers.Margin = new Padding(0);
             swContainers.MouseLocation = new Point(-1, -1);
@@ -3244,7 +3244,7 @@
             // swLooseLoot
             // 
             swLooseLoot.Depth = 0;
-            swLooseLoot.Font = new Font("Segoe UI", 9F);
+            swLooseLoot.Font = new Font("Microsoft YaHei UI", 9F);
             swLooseLoot.Location = new Point(15, 96);
             swLooseLoot.Margin = new Padding(0);
             swLooseLoot.MouseLocation = new Point(-1, -1);
@@ -3261,7 +3261,7 @@
             // swUnknownQuestItems
             // 
             swUnknownQuestItems.Depth = 0;
-            swUnknownQuestItems.Font = new Font("Segoe UI", 9F);
+            swUnknownQuestItems.Font = new Font("Microsoft YaHei UI", 9F);
             swUnknownQuestItems.Location = new Point(362, 232);
             swUnknownQuestItems.Margin = new Padding(0);
             swUnknownQuestItems.MouseLocation = new Point(-1, -1);
@@ -3277,7 +3277,7 @@
             // swQuestHelper
             // 
             swQuestHelper.Depth = 0;
-            swQuestHelper.Font = new Font("Segoe UI", 9F);
+            swQuestHelper.Font = new Font("Microsoft YaHei UI", 9F);
             swQuestHelper.Location = new Point(15, 187);
             swQuestHelper.Margin = new Padding(0);
             swQuestHelper.MouseLocation = new Point(-1, -1);
@@ -3313,7 +3313,7 @@
             // swAutoTaskRefresh
             // 
             swAutoTaskRefresh.Depth = 0;
-            swAutoTaskRefresh.Font = new Font("Segoe UI", 9F);
+            swAutoTaskRefresh.Font = new Font("Microsoft YaHei UI", 9F);
             swAutoTaskRefresh.Location = new Point(15, 232);
             swAutoTaskRefresh.Margin = new Padding(0);
             swAutoTaskRefresh.MouseLocation = new Point(-1, -1);
@@ -3330,7 +3330,7 @@
             // swQuestItems
             // 
             swQuestItems.Depth = 0;
-            swQuestItems.Font = new Font("Segoe UI", 9F);
+            swQuestItems.Font = new Font("Microsoft YaHei UI", 9F);
             swQuestItems.Location = new Point(177, 187);
             swQuestItems.Margin = new Padding(0);
             swQuestItems.MouseLocation = new Point(-1, -1);
@@ -3347,7 +3347,7 @@
             // swQuestLocations
             // 
             swQuestLocations.Depth = 0;
-            swQuestLocations.Font = new Font("Segoe UI", 9F);
+            swQuestLocations.Font = new Font("Microsoft YaHei UI", 9F);
             swQuestLocations.Location = new Point(476, 187);
             swQuestLocations.Margin = new Padding(0);
             swQuestLocations.MouseLocation = new Point(-1, -1);
@@ -3364,7 +3364,7 @@
             // swQuestLootItems
             // 
             swQuestLootItems.Depth = 0;
-            swQuestLootItems.Font = new Font("Segoe UI", 9F);
+            swQuestLootItems.Font = new Font("Microsoft YaHei UI", 9F);
             swQuestLootItems.Location = new Point(330, 187);
             swQuestLootItems.Margin = new Padding(0);
             swQuestLootItems.MouseLocation = new Point(-1, -1);
@@ -3384,7 +3384,7 @@
             btnRefreshTasks.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             btnRefreshTasks.Density = MaterialSkin.Controls.MaterialButton.MaterialButtonDensity.Default;
             btnRefreshTasks.Depth = 0;
-            btnRefreshTasks.Font = new Font("Segoe UI", 8F);
+            btnRefreshTasks.Font = new Font("Microsoft YaHei UI", 8F);
             btnRefreshTasks.HighEmphasis = true;
             btnRefreshTasks.Icon = null;
             btnRefreshTasks.Location = new Point(493, 102);
@@ -3404,7 +3404,7 @@
             // swPlayerInfoGear
             // 
             swPlayerInfoGear.Depth = 0;
-            swPlayerInfoGear.Font = new Font("Segoe UI", 9F);
+            swPlayerInfoGear.Font = new Font("Microsoft YaHei UI", 9F);
             swPlayerInfoGear.Location = new Point(561, 280);
             swPlayerInfoGear.Margin = new Padding(0);
             swPlayerInfoGear.MouseLocation = new Point(-1, -1);
@@ -3440,7 +3440,7 @@
             // swJuggernaut
             // 
             swJuggernaut.Depth = 0;
-            swJuggernaut.Font = new Font("Segoe UI", 9F);
+            swJuggernaut.Font = new Font("Microsoft YaHei UI", 9F);
             swJuggernaut.Location = new Point(23, 221);
             swJuggernaut.Margin = new Padding(0);
             swJuggernaut.MouseLocation = new Point(-1, -1);
@@ -3457,7 +3457,7 @@
             // swThirdperson
             // 
             swThirdperson.Depth = 0;
-            swThirdperson.Font = new Font("Segoe UI", 9F);
+            swThirdperson.Font = new Font("Microsoft YaHei UI", 9F);
             swThirdperson.Location = new Point(198, 51);
             swThirdperson.Margin = new Padding(0);
             swThirdperson.MouseLocation = new Point(-1, -1);
@@ -3474,7 +3474,7 @@
             // swMedPanel
             // 
             swMedPanel.Depth = 0;
-            swMedPanel.Font = new Font("Segoe UI", 9F);
+            swMedPanel.Font = new Font("Microsoft YaHei UI", 9F);
             swMedPanel.Location = new Point(17, 278);
             swMedPanel.Margin = new Padding(0);
             swMedPanel.MouseLocation = new Point(-1, -1);
@@ -3511,7 +3511,7 @@
             // swInventoryBlur
             // 
             swInventoryBlur.Depth = 0;
-            swInventoryBlur.Font = new Font("Segoe UI", 9F);
+            swInventoryBlur.Font = new Font("Microsoft YaHei UI", 9F);
             swInventoryBlur.Location = new Point(351, 51);
             swInventoryBlur.Margin = new Padding(0);
             swInventoryBlur.MouseLocation = new Point(-1, -1);
@@ -3555,7 +3555,7 @@
             cboHotkeyAction.DropDownHeight = 263;
             cboHotkeyAction.DropDownStyle = ComboBoxStyle.DropDownList;
             cboHotkeyAction.DropDownWidth = 121;
-            cboHotkeyAction.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboHotkeyAction.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboHotkeyAction.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboHotkeyAction.FormattingEnabled = true;
             cboHotkeyAction.Hint = "Action to trigger";
@@ -3632,7 +3632,7 @@
             // swWeaponSway
             // 
             swWeaponSway.Depth = 0;
-            swWeaponSway.Font = new Font("Segoe UI", 9F);
+            swWeaponSway.Font = new Font("Microsoft YaHei UI", 9F);
             swWeaponSway.Location = new Point(22, 88);
             swWeaponSway.Margin = new Padding(0);
             swWeaponSway.MouseLocation = new Point(-1, -1);
@@ -3655,7 +3655,7 @@
             cboHotkeyKey.DropDownHeight = 582;
             cboHotkeyKey.DropDownStyle = ComboBoxStyle.DropDownList;
             cboHotkeyKey.DropDownWidth = 121;
-            cboHotkeyKey.Font = new Font("Microsoft Sans Serif", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
+            cboHotkeyKey.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold, GraphicsUnit.Pixel);
             cboHotkeyKey.ForeColor = Color.FromArgb(222, 0, 0, 0);
             cboHotkeyKey.FormattingEnabled = true;
             cboHotkeyKey.Hint = "Key for action";
@@ -3675,7 +3675,7 @@
             // swChamsEvent
             // 
             swChamsEvent.Depth = 0;
-            swChamsEvent.Font = new Font("Segoe UI", 9F);
+            swChamsEvent.Font = new Font("Microsoft YaHei UI", 9F);
             swChamsEvent.Location = new Point(423, 96);
             swChamsEvent.Margin = new Padding(0);
             swChamsEvent.MouseLocation = new Point(-1, -1);
@@ -3708,7 +3708,7 @@
             // swFrostBite
             // 
             swFrostBite.Depth = 0;
-            swFrostBite.Font = new Font("Segoe UI", 9F);
+            swFrostBite.Font = new Font("Microsoft YaHei UI", 9F);
             swFrostBite.Location = new Point(201, 134);
             swFrostBite.Margin = new Padding(0);
             swFrostBite.MouseLocation = new Point(-1, -1);
@@ -3863,7 +3863,7 @@
             lstLootItems.BorderStyle = BorderStyle.None;
             lstLootItems.Columns.AddRange(new ColumnHeader[] { colItemQuantity, colItemName, colItemValue });
             lstLootItems.Depth = 0;
-            lstLootItems.Font = new Font("Segoe UI", 8.25F, FontStyle.Underline | FontStyle.Strikeout, GraphicsUnit.Point, 0);
+            lstLootItems.Font = new Font("Microsoft YaHei UI", 8.25F, FontStyle.Underline | FontStyle.Strikeout, GraphicsUnit.Point, 0);
             lstLootItems.FullRowSelect = true;
             lstLootItems.Location = new Point(0, 1);
             lstLootItems.MinimumSize = new Size(100, 113);
@@ -3923,7 +3923,7 @@
             // 
             lblRadarOtherValue.AutoSize = true;
             lblRadarOtherValue.Depth = 0;
-            lblRadarOtherValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarOtherValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarOtherValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarOtherValue.Location = new Point(83, 83);
             lblRadarOtherValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -3936,7 +3936,7 @@
             // 
             lblRadarOther.AutoSize = true;
             lblRadarOther.Depth = 0;
-            lblRadarOther.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarOther.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarOther.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarOther.Location = new Point(47, 83);
             lblRadarOther.MouseState = MaterialSkin.MouseState.HOVER;
@@ -3949,7 +3949,7 @@
             // 
             lblRadarBossesValue.AutoSize = true;
             lblRadarBossesValue.Depth = 0;
-            lblRadarBossesValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarBossesValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarBossesValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarBossesValue.Location = new Point(83, 67);
             lblRadarBossesValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -3962,7 +3962,7 @@
             // 
             lblRadarPlayerScavsValue.AutoSize = true;
             lblRadarPlayerScavsValue.Depth = 0;
-            lblRadarPlayerScavsValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarPlayerScavsValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarPlayerScavsValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarPlayerScavsValue.Location = new Point(83, 19);
             lblRadarPlayerScavsValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -3975,7 +3975,7 @@
             // 
             lblRadarBosses.AutoSize = true;
             lblRadarBosses.Depth = 0;
-            lblRadarBosses.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarBosses.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarBosses.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarBosses.Location = new Point(38, 67);
             lblRadarBosses.MouseState = MaterialSkin.MouseState.HOVER;
@@ -3988,7 +3988,7 @@
             // 
             lblRadarPlayerScavs.AutoSize = true;
             lblRadarPlayerScavs.Depth = 0;
-            lblRadarPlayerScavs.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarPlayerScavs.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarPlayerScavs.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarPlayerScavs.Location = new Point(7, 19);
             lblRadarPlayerScavs.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4001,7 +4001,7 @@
             // 
             lblRadarRoguesValue.AutoSize = true;
             lblRadarRoguesValue.Depth = 0;
-            lblRadarRoguesValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarRoguesValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarRoguesValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarRoguesValue.Location = new Point(83, 51);
             lblRadarRoguesValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4014,7 +4014,7 @@
             // 
             lblRadarAIScavsValue.AutoSize = true;
             lblRadarAIScavsValue.Depth = 0;
-            lblRadarAIScavsValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarAIScavsValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarAIScavsValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarAIScavsValue.Location = new Point(83, 35);
             lblRadarAIScavsValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4027,7 +4027,7 @@
             // 
             lblRadarPMCsValue.AutoSize = true;
             lblRadarPMCsValue.Depth = 0;
-            lblRadarPMCsValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarPMCsValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarPMCsValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarPMCsValue.Location = new Point(83, 3);
             lblRadarPMCsValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4040,7 +4040,7 @@
             // 
             lblRadarRogues.AutoSize = true;
             lblRadarRogues.Depth = 0;
-            lblRadarRogues.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarRogues.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarRogues.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarRogues.Location = new Point(36, 51);
             lblRadarRogues.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4053,7 +4053,7 @@
             // 
             lblRadarAIScavs.AutoSize = true;
             lblRadarAIScavs.Depth = 0;
-            lblRadarAIScavs.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarAIScavs.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarAIScavs.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarAIScavs.Location = new Point(30, 35);
             lblRadarAIScavs.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4066,7 +4066,7 @@
             // 
             lblRadarPMCs.AutoSize = true;
             lblRadarPMCs.Depth = 0;
-            lblRadarPMCs.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarPMCs.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarPMCs.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarPMCs.Location = new Point(44, 3);
             lblRadarPMCs.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4104,7 +4104,7 @@
             // 
             lblRadarCorpsesValue.AutoSize = true;
             lblRadarCorpsesValue.Depth = 0;
-            lblRadarCorpsesValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarCorpsesValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarCorpsesValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarCorpsesValue.Location = new Point(72, 67);
             lblRadarCorpsesValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4117,7 +4117,7 @@
             // 
             lblRadarCorpses.AutoSize = true;
             lblRadarCorpses.Depth = 0;
-            lblRadarCorpses.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarCorpses.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarCorpses.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarCorpses.Location = new Point(18, 67);
             lblRadarCorpses.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4130,7 +4130,7 @@
             // 
             lblRadarMemSValue.AutoSize = true;
             lblRadarMemSValue.Depth = 0;
-            lblRadarMemSValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarMemSValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarMemSValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarMemSValue.Location = new Point(72, 19);
             lblRadarMemSValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4143,7 +4143,7 @@
             // 
             lblRadarMemS.AutoSize = true;
             lblRadarMemS.Depth = 0;
-            lblRadarMemS.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarMemS.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarMemS.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarMemS.Location = new Point(24, 19);
             lblRadarMemS.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4156,7 +4156,7 @@
             // 
             lblRadarContainersValue.AutoSize = true;
             lblRadarContainersValue.Depth = 0;
-            lblRadarContainersValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarContainersValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarContainersValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarContainersValue.Location = new Point(72, 51);
             lblRadarContainersValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4169,7 +4169,7 @@
             // 
             lblRadarLooseLootValue.AutoSize = true;
             lblRadarLooseLootValue.Depth = 0;
-            lblRadarLooseLootValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarLooseLootValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarLooseLootValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarLooseLootValue.Location = new Point(72, 35);
             lblRadarLooseLootValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4182,7 +4182,7 @@
             // 
             lblRadarFPSValue.AutoSize = true;
             lblRadarFPSValue.Depth = 0;
-            lblRadarFPSValue.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarFPSValue.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarFPSValue.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarFPSValue.Location = new Point(72, 3);
             lblRadarFPSValue.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4195,7 +4195,7 @@
             // 
             lblRadarContainers.AutoSize = true;
             lblRadarContainers.Depth = 0;
-            lblRadarContainers.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarContainers.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarContainers.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarContainers.Location = new Point(3, 51);
             lblRadarContainers.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4208,7 +4208,7 @@
             // 
             lblRadarLooseLoot.AutoSize = true;
             lblRadarLooseLoot.Depth = 0;
-            lblRadarLooseLoot.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarLooseLoot.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarLooseLoot.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarLooseLoot.Location = new Point(3, 35);
             lblRadarLooseLoot.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4221,7 +4221,7 @@
             // 
             lblRadarFPS.AutoSize = true;
             lblRadarFPS.Depth = 0;
-            lblRadarFPS.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarFPS.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarFPS.FontType = MaterialSkin.MaterialSkinManager.fontType.Caption;
             lblRadarFPS.Location = new Point(5, 3);
             lblRadarFPS.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4269,7 +4269,7 @@
             // 
             lblRadarMapSetup.AutoSize = true;
             lblRadarMapSetup.Depth = 0;
-            lblRadarMapSetup.Font = new Font("Roboto", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblRadarMapSetup.Font = new Font("Microsoft YaHei UI", 16F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblRadarMapSetup.FontType = MaterialSkin.MaterialSkinManager.fontType.Subtitle1;
             lblRadarMapSetup.HighEmphasis = true;
             lblRadarMapSetup.Location = new Point(17, 16);
@@ -4314,7 +4314,7 @@
             tabSelector.CharacterCasing = MaterialSkin.Controls.MaterialTabSelector.CustomCharacterCasing.Normal;
             tabSelector.Depth = 0;
             tabSelector.Dock = DockStyle.Top;
-            tabSelector.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
+            tabSelector.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
             tabSelector.Location = new Point(0, 0);
             tabSelector.Margin = new Padding(0);
             tabSelector.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4334,7 +4334,7 @@
             tabControlSettings.Controls.Add(tabSettingsAIFactions);
             tabControlSettings.Controls.Add(tabSettingsColors);
             tabControlSettings.Depth = 0;
-            tabControlSettings.Font = new Font("Segoe UI", 9F);
+            tabControlSettings.Font = new Font("Microsoft YaHei UI", 9F);
             tabControlSettings.Location = new Point(0, 41);
             tabControlSettings.Margin = new Padding(0);
             tabControlSettings.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4572,7 +4572,7 @@
             // 
             materialLabel1.AutoSize = true;
             materialLabel1.Depth = 0;
-            materialLabel1.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            materialLabel1.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             materialLabel1.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             materialLabel1.HighEmphasis = true;
             materialLabel1.Location = new Point(17, 14);
@@ -4628,7 +4628,7 @@
             // 
             lblSettingsMemoryWritingChams.AutoSize = true;
             lblSettingsMemoryWritingChams.Depth = 0;
-            lblSettingsMemoryWritingChams.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingChams.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingChams.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsMemoryWritingChams.HighEmphasis = true;
             lblSettingsMemoryWritingChams.Location = new Point(17, 14);
@@ -4676,7 +4676,7 @@
             // 
             lblSettingsMemoryWritingSkills.AutoSize = true;
             lblSettingsMemoryWritingSkills.Depth = 0;
-            lblSettingsMemoryWritingSkills.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingSkills.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingSkills.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsMemoryWritingSkills.HighEmphasis = true;
             lblSettingsMemoryWritingSkills.Location = new Point(17, 14);
@@ -4710,7 +4710,7 @@
             // 
             lblSettingsMemoryWritingThermal.AutoSize = true;
             lblSettingsMemoryWritingThermal.Depth = 0;
-            lblSettingsMemoryWritingThermal.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingThermal.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingThermal.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsMemoryWritingThermal.HighEmphasis = true;
             lblSettingsMemoryWritingThermal.Location = new Point(17, 14);
@@ -4755,7 +4755,7 @@
             // 
             lblSettingsMemoryWritingLootThroughWallsDistance.AutoSize = true;
             lblSettingsMemoryWritingLootThroughWallsDistance.Depth = 0;
-            lblSettingsMemoryWritingLootThroughWallsDistance.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingLootThroughWallsDistance.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingLootThroughWallsDistance.Location = new Point(446, 193);
             lblSettingsMemoryWritingLootThroughWallsDistance.MouseState = MaterialSkin.MouseState.HOVER;
             lblSettingsMemoryWritingLootThroughWallsDistance.Name = "lblSettingsMemoryWritingLootThroughWallsDistance";
@@ -4767,7 +4767,7 @@
             // 
             lblSettingsMemoryWritingExtendedReachDistance.AutoSize = true;
             lblSettingsMemoryWritingExtendedReachDistance.Depth = 0;
-            lblSettingsMemoryWritingExtendedReachDistance.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingExtendedReachDistance.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingExtendedReachDistance.Location = new Point(446, 238);
             lblSettingsMemoryWritingExtendedReachDistance.MouseState = MaterialSkin.MouseState.HOVER;
             lblSettingsMemoryWritingExtendedReachDistance.Name = "lblSettingsMemoryWritingExtendedReachDistance";
@@ -4779,7 +4779,7 @@
             // 
             lblSettingsMemoryWritingTimeScaleFactor.AutoSize = true;
             lblSettingsMemoryWritingTimeScaleFactor.Depth = 0;
-            lblSettingsMemoryWritingTimeScaleFactor.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingTimeScaleFactor.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingTimeScaleFactor.Location = new Point(446, 152);
             lblSettingsMemoryWritingTimeScaleFactor.MouseState = MaterialSkin.MouseState.HOVER;
             lblSettingsMemoryWritingTimeScaleFactor.Name = "lblSettingsMemoryWritingTimeScaleFactor";
@@ -4791,7 +4791,7 @@
             // 
             lblSettingsMemoryWritingGlobal.AutoSize = true;
             lblSettingsMemoryWritingGlobal.Depth = 0;
-            lblSettingsMemoryWritingGlobal.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingGlobal.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingGlobal.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsMemoryWritingGlobal.HighEmphasis = true;
             lblSettingsMemoryWritingGlobal.Location = new Point(17, 14);
@@ -4833,7 +4833,7 @@
             // 
             lblSettingsMemoryWritingGear.AutoSize = true;
             lblSettingsMemoryWritingGear.Depth = 0;
-            lblSettingsMemoryWritingGear.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsMemoryWritingGear.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsMemoryWritingGear.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsMemoryWritingGear.HighEmphasis = true;
             lblSettingsMemoryWritingGear.Location = new Point(17, 14);
@@ -4880,7 +4880,7 @@
             lstContainers.AutoScroll = true;
             lstContainers.BackColor = Color.FromArgb(255, 255, 255);
             lstContainers.Depth = 0;
-            lstContainers.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lstContainers.Font = new Font("Microsoft YaHei UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lstContainers.Location = new Point(17, 96);
             lstContainers.MouseState = MaterialSkin.MouseState.HOVER;
             lstContainers.Name = "lstContainers";
@@ -4893,7 +4893,7 @@
             // 
             lblSettingsLootContainers.AutoSize = true;
             lblSettingsLootContainers.Depth = 0;
-            lblSettingsLootContainers.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsLootContainers.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsLootContainers.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsLootContainers.HighEmphasis = true;
             lblSettingsLootContainers.Location = new Point(17, 17);
@@ -4925,7 +4925,7 @@
             // 
             lblSettingsLootPing.AutoSize = true;
             lblSettingsLootPing.Depth = 0;
-            lblSettingsLootPing.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsLootPing.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsLootPing.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsLootPing.HighEmphasis = true;
             lblSettingsLootPing.Location = new Point(17, 14);
@@ -4958,7 +4958,7 @@
             // 
             lblSettingsLootMinRubleValues.AutoSize = true;
             lblSettingsLootMinRubleValues.Depth = 0;
-            lblSettingsLootMinRubleValues.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsLootMinRubleValues.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsLootMinRubleValues.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsLootMinRubleValues.HighEmphasis = true;
             lblSettingsLootMinRubleValues.Location = new Point(17, 14);
@@ -5005,7 +5005,7 @@
             // 
             lblSettingsLootGeneral.AutoSize = true;
             lblSettingsLootGeneral.Depth = 0;
-            lblSettingsLootGeneral.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsLootGeneral.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsLootGeneral.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsLootGeneral.HighEmphasis = true;
             lblSettingsLootGeneral.Location = new Point(17, 17);
@@ -5037,7 +5037,7 @@
             lstFactionEntries.BorderStyle = BorderStyle.None;
             lstFactionEntries.Columns.AddRange(new ColumnHeader[] { colFactionsAIName });
             lstFactionEntries.Depth = 0;
-            lstFactionEntries.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            lstFactionEntries.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold);
             lstFactionEntries.FullRowSelect = true;
             lstFactionEntries.Location = new Point(15, 16);
             lstFactionEntries.MaximumSize = new Size(420, 1020);
@@ -5078,7 +5078,7 @@
             // 
             lblSettingsAIFactionsEntryManagement.AutoSize = true;
             lblSettingsAIFactionsEntryManagement.Depth = 0;
-            lblSettingsAIFactionsEntryManagement.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsAIFactionsEntryManagement.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsAIFactionsEntryManagement.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsAIFactionsEntryManagement.HighEmphasis = true;
             lblSettingsAIFactionsEntryManagement.Location = new Point(17, 17);
@@ -5138,7 +5138,7 @@
             // 
             lblSettingsAIFactionsFactions.AutoSize = true;
             lblSettingsAIFactionsFactions.Depth = 0;
-            lblSettingsAIFactionsFactions.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsAIFactionsFactions.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsAIFactionsFactions.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsAIFactionsFactions.HighEmphasis = true;
             lblSettingsAIFactionsFactions.Location = new Point(17, 14);
@@ -5201,7 +5201,7 @@
             // 
             lblSettingsColorsGameWorldTripwire.AutoSize = true;
             lblSettingsColorsGameWorldTripwire.Depth = 0;
-            lblSettingsColorsGameWorldTripwire.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsGameWorldTripwire.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsGameWorldTripwire.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsGameWorldTripwire.Location = new Point(37, 85);
             lblSettingsColorsGameWorldTripwire.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5214,7 +5214,7 @@
             // 
             lblSettingsColorsGameWorld.AutoSize = true;
             lblSettingsColorsGameWorld.Depth = 0;
-            lblSettingsColorsGameWorld.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsGameWorld.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsGameWorld.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsGameWorld.HighEmphasis = true;
             lblSettingsColorsGameWorld.Location = new Point(17, 14);
@@ -5240,7 +5240,7 @@
             // 
             lblSettingsColorsGameWorldGrenades.AutoSize = true;
             lblSettingsColorsGameWorldGrenades.Depth = 0;
-            lblSettingsColorsGameWorldGrenades.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsGameWorldGrenades.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsGameWorldGrenades.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsGameWorldGrenades.Location = new Point(34, 51);
             lblSettingsColorsGameWorldGrenades.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5264,7 +5264,7 @@
             // 
             lblSettingsColorGameWorldDeathMarker.AutoSize = true;
             lblSettingsColorGameWorldDeathMarker.Depth = 0;
-            lblSettingsColorGameWorldDeathMarker.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorGameWorldDeathMarker.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorGameWorldDeathMarker.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorGameWorldDeathMarker.Location = new Point(15, 120);
             lblSettingsColorGameWorldDeathMarker.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5306,7 +5306,7 @@
             // 
             lblSettingsColorsEventZombie.AutoSize = true;
             lblSettingsColorsEventZombie.Depth = 0;
-            lblSettingsColorsEventZombie.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsEventZombie.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsEventZombie.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsEventZombie.Location = new Point(74, 84);
             lblSettingsColorsEventZombie.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5319,7 +5319,7 @@
             // 
             lblSettingsColorsEvent.AutoSize = true;
             lblSettingsColorsEvent.Depth = 0;
-            lblSettingsColorsEvent.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsEvent.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsEvent.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsEvent.HighEmphasis = true;
             lblSettingsColorsEvent.Location = new Point(17, 14);
@@ -5345,7 +5345,7 @@
             // 
             lblSettingsColorsEventMoranaFollower.AutoSize = true;
             lblSettingsColorsEventMoranaFollower.Depth = 0;
-            lblSettingsColorsEventMoranaFollower.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsEventMoranaFollower.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsEventMoranaFollower.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsEventMoranaFollower.Location = new Point(15, 51);
             lblSettingsColorsEventMoranaFollower.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5396,7 +5396,7 @@
             // 
             lblSettingsColorOtherAccent.AutoSize = true;
             lblSettingsColorOtherAccent.Depth = 0;
-            lblSettingsColorOtherAccent.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorOtherAccent.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorOtherAccent.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorOtherAccent.Location = new Point(56, 222);
             lblSettingsColorOtherAccent.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5420,7 +5420,7 @@
             // 
             ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.AutoSize = true;
             ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.Depth = 0;
-            ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.Location = new Point(15, 188);
             ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5444,7 +5444,7 @@
             // 
             lblSettingsColorOtherPrimaryDark.AutoSize = true;
             lblSettingsColorOtherPrimaryDark.Depth = 0;
-            lblSettingsColorOtherPrimaryDark.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorOtherPrimaryDark.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorOtherPrimaryDark.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorOtherPrimaryDark.Location = new Point(18, 154);
             lblSettingsColorOtherPrimaryDark.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5468,7 +5468,7 @@
             // 
             lblSettingsColorOtherPrimary.AutoSize = true;
             lblSettingsColorOtherPrimary.Depth = 0;
-            lblSettingsColorOtherPrimary.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorOtherPrimary.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorOtherPrimary.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorOtherPrimary.Location = new Point(50, 120);
             lblSettingsColorOtherPrimary.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5492,7 +5492,7 @@
             // 
             lblSettingsColorOtherChams.AutoSize = true;
             lblSettingsColorOtherChams.Depth = 0;
-            lblSettingsColorOtherChams.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorOtherChams.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorOtherChams.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorOtherChams.Location = new Point(55, 86);
             lblSettingsColorOtherChams.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5516,7 +5516,7 @@
             // 
             lblSettingsColorOtherTextOutline.AutoSize = true;
             lblSettingsColorOtherTextOutline.Depth = 0;
-            lblSettingsColorOtherTextOutline.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorOtherTextOutline.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorOtherTextOutline.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorOtherTextOutline.Location = new Point(25, 51);
             lblSettingsColorOtherTextOutline.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5529,7 +5529,7 @@
             // 
             lblSettingsColorsOther.AutoSize = true;
             lblSettingsColorsOther.Depth = 0;
-            lblSettingsColorsOther.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsOther.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsOther.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsOther.HighEmphasis = true;
             lblSettingsColorsOther.Location = new Point(17, 14);
@@ -5581,7 +5581,7 @@
             // 
             lblSettingsColorsRequiredQuestItems.AutoSize = true;
             lblSettingsColorsRequiredQuestItems.Depth = 0;
-            lblSettingsColorsRequiredQuestItems.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsRequiredQuestItems.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsRequiredQuestItems.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsRequiredQuestItems.Location = new Point(17, 187);
             lblSettingsColorsRequiredQuestItems.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5605,7 +5605,7 @@
             // 
             lblSettingsColorsLootPing.AutoSize = true;
             lblSettingsColorsLootPing.Depth = 0;
-            lblSettingsColorsLootPing.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsLootPing.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsLootPing.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsLootPing.Location = new Point(82, 221);
             lblSettingsColorsLootPing.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5629,7 +5629,7 @@
             // 
             lblSettingsColorsQuestZones.AutoSize = true;
             lblSettingsColorsQuestZones.Depth = 0;
-            lblSettingsColorsQuestZones.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsQuestZones.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsQuestZones.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsQuestZones.Location = new Point(32, 153);
             lblSettingsColorsQuestZones.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5653,7 +5653,7 @@
             // 
             lblSettingsColorsQuestItems.AutoSize = true;
             lblSettingsColorsQuestItems.Depth = 0;
-            lblSettingsColorsQuestItems.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsQuestItems.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsQuestItems.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsQuestItems.Location = new Point(35, 119);
             lblSettingsColorsQuestItems.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5677,7 +5677,7 @@
             // 
             lblSettingsColorsLootImportant.AutoSize = true;
             lblSettingsColorsLootImportant.Depth = 0;
-            lblSettingsColorsLootImportant.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsLootImportant.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsLootImportant.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsLootImportant.Location = new Point(15, 85);
             lblSettingsColorsLootImportant.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5701,7 +5701,7 @@
             // 
             lblSettingsColorsLootRegular.AutoSize = true;
             lblSettingsColorsLootRegular.Depth = 0;
-            lblSettingsColorsLootRegular.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsLootRegular.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsLootRegular.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsLootRegular.Location = new Point(30, 51);
             lblSettingsColorsLootRegular.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5714,7 +5714,7 @@
             // 
             lblSettingsColorsLootQuests.AutoSize = true;
             lblSettingsColorsLootQuests.Depth = 0;
-            lblSettingsColorsLootQuests.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsLootQuests.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsLootQuests.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsLootQuests.HighEmphasis = true;
             lblSettingsColorsLootQuests.Location = new Point(17, 14);
@@ -5781,7 +5781,7 @@
             // 
             lblSettingsColorsTransitIcon.AutoSize = true;
             lblSettingsColorsTransitIcon.Depth = 0;
-            lblSettingsColorsTransitIcon.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsTransitIcon.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsTransitIcon.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsTransitIcon.Location = new Point(22, 289);
             lblSettingsColorsTransitIcon.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5794,7 +5794,7 @@
             // 
             lblSettingsColorsExfilClosedIcon.AutoSize = true;
             lblSettingsColorsExfilClosedIcon.Depth = 0;
-            lblSettingsColorsExfilClosedIcon.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsExfilClosedIcon.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsExfilClosedIcon.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsExfilClosedIcon.Location = new Point(24, 221);
             lblSettingsColorsExfilClosedIcon.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5818,7 +5818,7 @@
             // 
             lblSettingsColorsTransitText.AutoSize = true;
             lblSettingsColorsTransitText.Depth = 0;
-            lblSettingsColorsTransitText.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsTransitText.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsTransitText.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsTransitText.Location = new Point(22, 255);
             lblSettingsColorsTransitText.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5842,7 +5842,7 @@
             // 
             lblSettingsColorsExfilClosedText.AutoSize = true;
             lblSettingsColorsExfilClosedText.Depth = 0;
-            lblSettingsColorsExfilClosedText.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsExfilClosedText.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsExfilClosedText.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsExfilClosedText.Location = new Point(24, 187);
             lblSettingsColorsExfilClosedText.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5866,7 +5866,7 @@
             // 
             lblSettingsColorsExfilPendingIcon.AutoSize = true;
             lblSettingsColorsExfilPendingIcon.Depth = 0;
-            lblSettingsColorsExfilPendingIcon.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsExfilPendingIcon.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsExfilPendingIcon.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsExfilPendingIcon.Location = new Point(15, 153);
             lblSettingsColorsExfilPendingIcon.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5890,7 +5890,7 @@
             // 
             lblSettingsColorsExfilPendingText.AutoSize = true;
             lblSettingsColorsExfilPendingText.Depth = 0;
-            lblSettingsColorsExfilPendingText.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsExfilPendingText.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsExfilPendingText.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsExfilPendingText.Location = new Point(15, 119);
             lblSettingsColorsExfilPendingText.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5914,7 +5914,7 @@
             // 
             lblSettingsColorsExfilActiveIcon.AutoSize = true;
             lblSettingsColorsExfilActiveIcon.Depth = 0;
-            lblSettingsColorsExfilActiveIcon.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsExfilActiveIcon.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsExfilActiveIcon.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsExfilActiveIcon.Location = new Point(28, 85);
             lblSettingsColorsExfilActiveIcon.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5938,7 +5938,7 @@
             // 
             lblSettingsColorsExfilActiveText.AutoSize = true;
             lblSettingsColorsExfilActiveText.Depth = 0;
-            lblSettingsColorsExfilActiveText.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsExfilActiveText.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsExfilActiveText.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsExfilActiveText.Location = new Point(28, 51);
             lblSettingsColorsExfilActiveText.MouseState = MaterialSkin.MouseState.HOVER;
@@ -5951,7 +5951,7 @@
             // 
             lblSettingsColorsExfiltration.AutoSize = true;
             lblSettingsColorsExfiltration.Depth = 0;
-            lblSettingsColorsExfiltration.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsExfiltration.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsExfiltration.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsExfiltration.HighEmphasis = true;
             lblSettingsColorsExfiltration.Location = new Point(17, 14);
@@ -6005,7 +6005,7 @@
             // 
             lblSettingsColorsPlayersSpecial.AutoSize = true;
             lblSettingsColorsPlayersSpecial.Depth = 0;
-            lblSettingsColorsPlayersSpecial.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersSpecial.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersSpecial.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersSpecial.Location = new Point(46, 255);
             lblSettingsColorsPlayersSpecial.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6029,7 +6029,7 @@
             // 
             lblSettingsColorsPlayersTeamHover.AutoSize = true;
             lblSettingsColorsPlayersTeamHover.Depth = 0;
-            lblSettingsColorsPlayersTeamHover.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersTeamHover.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersTeamHover.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersTeamHover.Location = new Point(15, 221);
             lblSettingsColorsPlayersTeamHover.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6053,7 +6053,7 @@
             // 
             lblSettingsColorsPlayersTeammate.AutoSize = true;
             lblSettingsColorsPlayersTeammate.Depth = 0;
-            lblSettingsColorsPlayersTeammate.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersTeammate.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersTeammate.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersTeammate.Location = new Point(23, 187);
             lblSettingsColorsPlayersTeammate.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6077,7 +6077,7 @@
             // 
             lblSettingsColorsPlayersLocalPlayer.AutoSize = true;
             lblSettingsColorsPlayersLocalPlayer.Depth = 0;
-            lblSettingsColorsPlayersLocalPlayer.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersLocalPlayer.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersLocalPlayer.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersLocalPlayer.Location = new Point(20, 153);
             lblSettingsColorsPlayersLocalPlayer.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6101,7 +6101,7 @@
             // 
             lblSettingsColorsPlayersScav.AutoSize = true;
             lblSettingsColorsPlayersScav.Depth = 0;
-            lblSettingsColorsPlayersScav.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersScav.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersScav.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersScav.Location = new Point(60, 119);
             lblSettingsColorsPlayersScav.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6125,7 +6125,7 @@
             // 
             lblSettingsColorsPlayersBEAR.AutoSize = true;
             lblSettingsColorsPlayersBEAR.Depth = 0;
-            lblSettingsColorsPlayersBEAR.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersBEAR.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersBEAR.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersBEAR.Location = new Point(55, 85);
             lblSettingsColorsPlayersBEAR.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6149,7 +6149,7 @@
             // 
             lblSettingsColorsPlayersUSEC.AutoSize = true;
             lblSettingsColorsPlayersUSEC.Depth = 0;
-            lblSettingsColorsPlayersUSEC.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayersUSEC.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsPlayersUSEC.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsPlayersUSEC.Location = new Point(56, 51);
             lblSettingsColorsPlayersUSEC.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6162,7 +6162,7 @@
             // 
             lblSettingsColorsPlayers.AutoSize = true;
             lblSettingsColorsPlayers.Depth = 0;
-            lblSettingsColorsPlayers.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsPlayers.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsPlayers.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsPlayers.HighEmphasis = true;
             lblSettingsColorsPlayers.Location = new Point(17, 14);
@@ -6218,7 +6218,7 @@
             // 
             lblSettingsColorsAIOther.AutoSize = true;
             lblSettingsColorsAIOther.Depth = 0;
-            lblSettingsColorsAIOther.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIOther.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIOther.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIOther.Location = new Point(65, 289);
             lblSettingsColorsAIOther.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6242,7 +6242,7 @@
             // 
             lblSettingsColorsAIScav.AutoSize = true;
             lblSettingsColorsAIScav.Depth = 0;
-            lblSettingsColorsAIScav.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIScav.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIScav.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIScav.Location = new Point(70, 255);
             lblSettingsColorsAIScav.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6266,7 +6266,7 @@
             // 
             lblSettingsColorsAICultists.AutoSize = true;
             lblSettingsColorsAICultists.Depth = 0;
-            lblSettingsColorsAICultists.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAICultists.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAICultists.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAICultists.Location = new Point(53, 221);
             lblSettingsColorsAICultists.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6290,7 +6290,7 @@
             // 
             lblSettingsColorsAIRogues.AutoSize = true;
             lblSettingsColorsAIRogues.Depth = 0;
-            lblSettingsColorsAIRogues.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIRogues.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIRogues.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIRogues.Location = new Point(53, 187);
             lblSettingsColorsAIRogues.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6314,7 +6314,7 @@
             // 
             lblSettingsColorsAIRaiders.AutoSize = true;
             lblSettingsColorsAIRaiders.Depth = 0;
-            lblSettingsColorsAIRaiders.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIRaiders.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIRaiders.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIRaiders.Location = new Point(53, 153);
             lblSettingsColorsAIRaiders.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6338,7 +6338,7 @@
             // 
             lblSettingsColorsAIBossFollower.AutoSize = true;
             lblSettingsColorsAIBossFollower.Depth = 0;
-            lblSettingsColorsAIBossFollower.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIBossFollower.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIBossFollower.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIBossFollower.Location = new Point(13, 119);
             lblSettingsColorsAIBossFollower.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6362,7 +6362,7 @@
             // 
             lblSettingsColorsAIBossGuard.AutoSize = true;
             lblSettingsColorsAIBossGuard.Depth = 0;
-            lblSettingsColorsAIBossGuard.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIBossGuard.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIBossGuard.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIBossGuard.Location = new Point(27, 85);
             lblSettingsColorsAIBossGuard.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6386,7 +6386,7 @@
             // 
             lblSettingsColorsAIBoss.AutoSize = true;
             lblSettingsColorsAIBoss.Depth = 0;
-            lblSettingsColorsAIBoss.Font = new Font("Roboto", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsColorsAIBoss.Font = new Font("Microsoft YaHei UI", 12F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsColorsAIBoss.FontType = MaterialSkin.MaterialSkinManager.fontType.Body2;
             lblSettingsColorsAIBoss.Location = new Point(69, 51);
             lblSettingsColorsAIBoss.MouseState = MaterialSkin.MouseState.HOVER;
@@ -6399,7 +6399,7 @@
             // 
             lblSettingsColorsAI.AutoSize = true;
             lblSettingsColorsAI.Depth = 0;
-            lblSettingsColorsAI.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsColorsAI.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsColorsAI.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsColorsAI.HighEmphasis = true;
             lblSettingsColorsAI.Location = new Point(17, 14);
@@ -6445,7 +6445,7 @@
             lblPlayerLoadoutsAI.AutoSize = true;
             lblPlayerLoadoutsAI.Depth = 0;
             lblPlayerLoadoutsAI.Dock = DockStyle.Top;
-            lblPlayerLoadoutsAI.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblPlayerLoadoutsAI.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblPlayerLoadoutsAI.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblPlayerLoadoutsAI.HighEmphasis = true;
             lblPlayerLoadoutsAI.Location = new Point(14, 16);
@@ -6489,7 +6489,7 @@
             lblPlayerLoadoutsBosses.AutoSize = true;
             lblPlayerLoadoutsBosses.Depth = 0;
             lblPlayerLoadoutsBosses.Dock = DockStyle.Top;
-            lblPlayerLoadoutsBosses.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblPlayerLoadoutsBosses.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblPlayerLoadoutsBosses.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblPlayerLoadoutsBosses.HighEmphasis = true;
             lblPlayerLoadoutsBosses.Location = new Point(14, 16);
@@ -6533,7 +6533,7 @@
             lblPlayerLoadoutsPlayers.AutoSize = true;
             lblPlayerLoadoutsPlayers.Depth = 0;
             lblPlayerLoadoutsPlayers.Dock = DockStyle.Top;
-            lblPlayerLoadoutsPlayers.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblPlayerLoadoutsPlayers.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblPlayerLoadoutsPlayers.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblPlayerLoadoutsPlayers.HighEmphasis = true;
             lblPlayerLoadoutsPlayers.Location = new Point(14, 16);
@@ -6613,7 +6613,7 @@
             // 
             lblWatchlistPlayerlist.AutoSize = true;
             lblWatchlistPlayerlist.Depth = 0;
-            lblWatchlistPlayerlist.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblWatchlistPlayerlist.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblWatchlistPlayerlist.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblWatchlistPlayerlist.HighEmphasis = true;
             lblWatchlistPlayerlist.Location = new Point(17, 17);
@@ -6672,7 +6672,7 @@
             // 
             lblWatchlistProfiles.AutoSize = true;
             lblWatchlistProfiles.Depth = 0;
-            lblWatchlistProfiles.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblWatchlistProfiles.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblWatchlistProfiles.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblWatchlistProfiles.HighEmphasis = true;
             lblWatchlistProfiles.Location = new Point(17, 17);
@@ -6708,7 +6708,7 @@
             // 
             lblWatchlistPlayerManagement.AutoSize = true;
             lblWatchlistPlayerManagement.Depth = 0;
-            lblWatchlistPlayerManagement.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblWatchlistPlayerManagement.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblWatchlistPlayerManagement.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblWatchlistPlayerManagement.HighEmphasis = true;
             lblWatchlistPlayerManagement.Location = new Point(17, 17);
@@ -6727,7 +6727,7 @@
             lstWatchlistEntries.BorderStyle = BorderStyle.None;
             lstWatchlistEntries.Columns.AddRange(new ColumnHeader[] { colWatchlistAccID, colWatchlistTag, colWatchlistUsername });
             lstWatchlistEntries.Depth = 0;
-            lstWatchlistEntries.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            lstWatchlistEntries.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold);
             lstWatchlistEntries.FullRowSelect = true;
             lstWatchlistEntries.Location = new Point(15, 6);
             lstWatchlistEntries.MaximumSize = new Size(420, 1020);
@@ -6801,7 +6801,7 @@
             lstLootFilters.BorderStyle = BorderStyle.None;
             lstLootFilters.Columns.AddRange(new ColumnHeader[] { colLootFilterName });
             lstLootFilters.Depth = 0;
-            lstLootFilters.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            lstLootFilters.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold);
             lstLootFilters.FullRowSelect = true;
             lstLootFilters.Location = new Point(15, 51);
             lstLootFilters.MinimumSize = new Size(200, 113);
@@ -6824,7 +6824,7 @@
             // 
             lblSettingsLootFilters.AutoSize = true;
             lblSettingsLootFilters.Depth = 0;
-            lblSettingsLootFilters.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblSettingsLootFilters.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblSettingsLootFilters.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblSettingsLootFilters.HighEmphasis = true;
             lblSettingsLootFilters.Location = new Point(17, 17);
@@ -6870,7 +6870,7 @@
             // 
             lblSettingsLootFilterColor.AutoSize = true;
             lblSettingsLootFilterColor.Depth = 0;
-            lblSettingsLootFilterColor.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
+            lblSettingsLootFilterColor.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
             lblSettingsLootFilterColor.Location = new Point(336, 108);
             lblSettingsLootFilterColor.MouseState = MaterialSkin.MouseState.HOVER;
             lblSettingsLootFilterColor.Name = "lblSettingsLootFilterColor";
@@ -6921,7 +6921,7 @@
             // 
             lblLootFilterItemManagement.AutoSize = true;
             lblLootFilterItemManagement.Depth = 0;
-            lblLootFilterItemManagement.Font = new Font("Roboto Medium", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
+            lblLootFilterItemManagement.Font = new Font("Microsoft YaHei UI", 20F, FontStyle.Bold, GraphicsUnit.Pixel);
             lblLootFilterItemManagement.FontType = MaterialSkin.MaterialSkinManager.fontType.H6;
             lblLootFilterItemManagement.HighEmphasis = true;
             lblLootFilterItemManagement.Location = new Point(17, 17);
@@ -6940,7 +6940,7 @@
             lstLootFilterEntries.BorderStyle = BorderStyle.None;
             lstLootFilterEntries.Columns.AddRange(new ColumnHeader[] { colLootFilterItemName, colLootFilterItemValue });
             lstLootFilterEntries.Depth = 0;
-            lstLootFilterEntries.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            lstLootFilterEntries.Font = new Font("Microsoft YaHei UI", 14F, FontStyle.Bold);
             lstLootFilterEntries.FullRowSelect = true;
             lstLootFilterEntries.Location = new Point(15, 6);
             lstLootFilterEntries.MaximumSize = new Size(550, 1020);
