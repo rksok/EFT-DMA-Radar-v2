@@ -67,7 +67,7 @@ namespace eft_dma_radar
                 var body = new
                 {
                     query = @"query {
-                                    items {
+                                    items(lang:zh) {
                                         id
                                         name
                                         shortName
