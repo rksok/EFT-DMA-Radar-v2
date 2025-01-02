@@ -25,7 +25,6 @@ namespace eft_dma_radar
         public static ReadOnlyDictionary<string, Tasks> AllTasks => new(_allTasks);
         public static ReadOnlyDictionary<string, Containers> AllLootContainers => new(_allLootContainers);
         public static ReadOnlyDictionary<string, Maps> AllMaps => new(_allMaps);
-
         #region Static_Constructor
         static TarkovDevManager()
         {
@@ -94,7 +93,7 @@ namespace eft_dma_radar
                                         normalizedName
                                         }
                                     }
-                                    tasks {
+                                    tasks(lang:zh) {
                                         id
                                         name
                                         objectives {
@@ -239,18 +238,18 @@ namespace eft_dma_radar
                                             }
                                         }
                                     }
-                                    questItems {
+                                    questItems(lang:zh) {
                                         id
                                         shortName
                                         name
                                         normalizedName
                                     }
-                                    lootContainers {
+                                    lootContainers(lang:zh) {
                                         id
                                         normalizedName
                                         name
                                     }
-                                    maps{
+                                    maps(lang:zh){
                                         name
                                         extracts {
                                             name
