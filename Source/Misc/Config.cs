@@ -302,16 +302,18 @@ namespace eft_dma_radar
         [JsonIgnore]
         public Dictionary<string, int> DefaultAutoRefreshSettings = new Dictionary<string, int>()
         {
-            ["Customs"] = 30,
-            ["Factory"] = 30,
-            ["Ground Zero"] = 30,
-            ["Interchange"] = 30,
-            ["Lighthouse"] = 30,
-            ["Reserve"] = 30,
-            ["Shoreline"] = 30,
-            ["Streets of Tarkov"] = 30,
-            ["The Lab"] = 30,
-            ["Woods"] = 30
+            ["海关"] = 30,
+            ["工厂"] = 30,
+            ["夜间工厂"] = 30,
+            ["中心区"] = 30,
+            ["中心区 21+"] = 30,
+            ["立交桥"] = 30,
+            ["灯塔"] = 30,
+            ["储备站"] = 30,
+            ["海岸线"] = 30,
+            ["塔科夫街区"] = 30,
+            ["实验室"] = 30,
+            ["森林"] = 30
         };
 
         [JsonIgnore]
