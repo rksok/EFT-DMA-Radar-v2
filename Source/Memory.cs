@@ -73,12 +73,18 @@ namespace eft_dma_radar
 
                 return name switch
                 {
-                    "factory4_day" or "factory4_night" => "Factory",
-                    "bigmap" => "Customs",
-                    "RezervBase" => "Reserve",
-                    "TarkovStreets" => "Streets of Tarkov",
-                    "laboratory" => "The Lab",
-                    "Sandbox" or "Sandbox_high" => "Ground Zero",
+                    "factory4_day" => "工厂",
+                    "bigmap" => "海关",
+                    "woods" => "森林",
+                    "lighthouse" => "灯塔",
+                    "shoreline" => "海岸线",
+                    "RezervBase" => "储备站",
+                    "interchange" => "立交桥",
+                    "TarkovStreets" => "塔科夫街区",
+                    "factory4_night" => "夜间工厂",
+                    "laboratory" => "实验室",
+                    "Sandbox" => "中心区",
+                    "Sandbox_high" => "中心区 21+",
                     _ => name
                 };
             }
