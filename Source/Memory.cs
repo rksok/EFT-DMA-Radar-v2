@@ -75,7 +75,7 @@ namespace eft_dma_radar
                 {
                     "factory4_day" => "工厂",
                     "bigmap" => "海关",
-                    "woods" => "森林",
+                    "Woods" => "森林",
                     "lighthouse" => "灯塔",
                     "shoreline" => "海岸线",
                     "RezervBase" => "储备站",
