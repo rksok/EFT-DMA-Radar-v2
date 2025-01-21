@@ -619,7 +619,7 @@
             // 
             swExfilNames.Depth = 0;
             swExfilNames.Font = new Font("Microsoft YaHei UI", 9F);
-            swExfilNames.Location = new Point(173, 51);
+            swExfilNames.Location = new Point(179, 45);
             swExfilNames.Margin = new Padding(0);
             swExfilNames.MouseLocation = new Point(-1, -1);
             swExfilNames.MouseState = MaterialSkin.MouseState.HOVER;
@@ -636,7 +636,7 @@
             // 
             swHoverArmor.Depth = 0;
             swHoverArmor.Font = new Font("Microsoft YaHei UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 134);
-            swHoverArmor.Location = new Point(330, 51);
+            swHoverArmor.Location = new Point(14, 45);
             swHoverArmor.Margin = new Padding(0);
             swHoverArmor.MouseLocation = new Point(-1, -1);
             swHoverArmor.MouseState = MaterialSkin.MouseState.HOVER;
@@ -653,7 +653,7 @@
             // 
             swAimview.Depth = 0;
             swAimview.Font = new Font("Microsoft YaHei UI", 9F);
-            swAimview.Location = new Point(15, 51);
+            swAimview.Location = new Point(15, 62);
             swAimview.Margin = new Padding(0);
             swAimview.MouseLocation = new Point(-1, -1);
             swAimview.MouseState = MaterialSkin.MouseState.HOVER;
@@ -801,7 +801,7 @@
             // 
             swExtendedReach.Depth = 0;
             swExtendedReach.Font = new Font("Microsoft YaHei UI", 9F);
-            swExtendedReach.Location = new Point(15, 232);
+            swExtendedReach.Location = new Point(17, 142);
             swExtendedReach.Margin = new Padding(0);
             swExtendedReach.MouseLocation = new Point(-1, -1);
             swExtendedReach.MouseState = MaterialSkin.MouseState.HOVER;
@@ -2824,7 +2824,7 @@
             // 
             sldrLootThroughWallsDistance.Depth = 0;
             sldrLootThroughWallsDistance.ForeColor = Color.Black;
-            sldrLootThroughWallsDistance.Location = new Point(221, 181);
+            sldrLootThroughWallsDistance.Location = new Point(193, 96);
             sldrLootThroughWallsDistance.MouseState = MaterialSkin.MouseState.HOVER;
             sldrLootThroughWallsDistance.Name = "sldrLootThroughWallsDistance";
             sldrLootThroughWallsDistance.RangeMax = 4;
@@ -2842,7 +2842,7 @@
             // 
             swLootThroughWalls.Depth = 0;
             swLootThroughWalls.Font = new Font("Microsoft YaHei UI", 9F);
-            swLootThroughWalls.Location = new Point(15, 187);
+            swLootThroughWalls.Location = new Point(15, 96);
             swLootThroughWalls.Margin = new Padding(0);
             swLootThroughWalls.MouseLocation = new Point(-1, -1);
             swLootThroughWalls.MouseState = MaterialSkin.MouseState.HOVER;
@@ -2893,7 +2893,7 @@
             // 
             sldrExtendedReachDistance.Depth = 0;
             sldrExtendedReachDistance.ForeColor = Color.Black;
-            sldrExtendedReachDistance.Location = new Point(221, 227);
+            sldrExtendedReachDistance.Location = new Point(193, 142);
             sldrExtendedReachDistance.MouseState = MaterialSkin.MouseState.HOVER;
             sldrExtendedReachDistance.Name = "sldrExtendedReachDistance";
             sldrExtendedReachDistance.RangeMax = 40;
@@ -3557,7 +3557,7 @@
             // 
             swMedPanel.Depth = 0;
             swMedPanel.Font = new Font("Microsoft YaHei UI", 9F);
-            swMedPanel.Location = new Point(17, 278);
+            swMedPanel.Location = new Point(17, 187);
             swMedPanel.Margin = new Padding(0);
             swMedPanel.MouseLocation = new Point(-1, -1);
             swMedPanel.MouseState = MaterialSkin.MouseState.HOVER;
@@ -3575,7 +3575,7 @@
             sldrFOV.Depth = 0;
             sldrFOV.Enabled = false;
             sldrFOV.ForeColor = Color.Black;
-            sldrFOV.Location = new Point(221, 272);
+            sldrFOV.Location = new Point(193, 185);
             sldrFOV.MouseState = MaterialSkin.MouseState.HOVER;
             sldrFOV.Name = "sldrFOV";
             sldrFOV.RangeMax = 120;
@@ -4012,7 +4012,7 @@
             // 
             swTraderPrices.Depth = 0;
             swTraderPrices.Font = new Font("Segoe UI", 9F);
-            swTraderPrices.Location = new Point(330, 45);
+            swTraderPrices.Location = new Point(325, 45);
             swTraderPrices.Margin = new Padding(0);
             swTraderPrices.MouseLocation = new Point(-1, -1);
             swTraderPrices.MouseState = MaterialSkin.MouseState.HOVER;
@@ -4726,7 +4726,7 @@
             // 
             sldrAVHeight.Depth = 0;
             sldrAVHeight.ForeColor = Color.FromArgb(222, 0, 0, 0);
-            sldrAVHeight.Location = new Point(371, 60);
+            sldrAVHeight.Location = new Point(399, 62);
             sldrAVHeight.MouseState = MaterialSkin.MouseState.HOVER;
             sldrAVHeight.Name = "sldrAVHeight";
             sldrAVHeight.RangeMax = 600;
@@ -4743,7 +4743,7 @@
             // 
             sldrAVWidth.Depth = 0;
             sldrAVWidth.ForeColor = Color.FromArgb(222, 0, 0, 0);
-            sldrAVWidth.Location = new Point(149, 60);
+            sldrAVWidth.Location = new Point(178, 62);
             sldrAVWidth.MouseState = MaterialSkin.MouseState.HOVER;
             sldrAVWidth.Name = "sldrAVWidth";
             sldrAVWidth.RangeMax = 600;
@@ -5451,7 +5451,7 @@
             mcSettingsGeneralAimview.Controls.Add(swAVPlayers);
             mcSettingsGeneralAimview.Depth = 0;
             mcSettingsGeneralAimview.ForeColor = Color.FromArgb(222, 0, 0, 0);
-            mcSettingsGeneralAimview.Location = new Point(15, 349);
+            mcSettingsGeneralAimview.Location = new Point(15, 410);
             mcSettingsGeneralAimview.Margin = new Padding(14);
             mcSettingsGeneralAimview.MouseState = MaterialSkin.MouseState.HOVER;
             mcSettingsGeneralAimview.Name = "mcSettingsGeneralAimview";
@@ -5863,7 +5863,7 @@
             tabSettingsHotkeys.Location = new Point(4, 26);
             tabSettingsHotkeys.Name = "tabSettingsHotkeys";
             tabSettingsHotkeys.Padding = new Padding(3);
-            tabSettingsHotkeys.Size = new Size(1384, 728);
+            tabSettingsHotkeys.Size = new Size(1384, 731);
             tabSettingsHotkeys.TabIndex = 5;
             tabSettingsHotkeys.Text = "热键";
             tabSettingsHotkeys.UseVisualStyleBackColor = true;
@@ -6111,7 +6111,7 @@
             mcSettingsMemoryWritingThermal.Controls.Add(sldrThermalRampShift);
             mcSettingsMemoryWritingThermal.Depth = 0;
             mcSettingsMemoryWritingThermal.ForeColor = Color.FromArgb(222, 0, 0, 0);
-            mcSettingsMemoryWritingThermal.Location = new Point(14, 695);
+            mcSettingsMemoryWritingThermal.Location = new Point(15, 613);
             mcSettingsMemoryWritingThermal.Margin = new Padding(14, 16, 14, 16);
             mcSettingsMemoryWritingThermal.MouseState = MaterialSkin.MouseState.HOVER;
             mcSettingsMemoryWritingThermal.Name = "mcSettingsMemoryWritingThermal";
@@ -6156,7 +6156,7 @@
             mcSettingsMemoryWritingGlobal.MouseState = MaterialSkin.MouseState.HOVER;
             mcSettingsMemoryWritingGlobal.Name = "mcSettingsMemoryWritingGlobal";
             mcSettingsMemoryWritingGlobal.Padding = new Padding(14, 16, 14, 16);
-            mcSettingsMemoryWritingGlobal.Size = new Size(535, 326);
+            mcSettingsMemoryWritingGlobal.Size = new Size(535, 249);
             mcSettingsMemoryWritingGlobal.TabIndex = 38;
             // 
             // lblSettingsMemoryWritingLootThroughWallsDistance
@@ -6164,7 +6164,7 @@
             lblSettingsMemoryWritingLootThroughWallsDistance.AutoSize = true;
             lblSettingsMemoryWritingLootThroughWallsDistance.Depth = 0;
             lblSettingsMemoryWritingLootThroughWallsDistance.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
-            lblSettingsMemoryWritingLootThroughWallsDistance.Location = new Point(446, 193);
+            lblSettingsMemoryWritingLootThroughWallsDistance.Location = new Point(446, 103);
             lblSettingsMemoryWritingLootThroughWallsDistance.MouseState = MaterialSkin.MouseState.HOVER;
             lblSettingsMemoryWritingLootThroughWallsDistance.Name = "lblSettingsMemoryWritingLootThroughWallsDistance";
             lblSettingsMemoryWritingLootThroughWallsDistance.Size = new Size(18, 19);
@@ -6176,7 +6176,7 @@
             lblSettingsMemoryWritingExtendedReachDistance.AutoSize = true;
             lblSettingsMemoryWritingExtendedReachDistance.Depth = 0;
             lblSettingsMemoryWritingExtendedReachDistance.Font = new Font("Roboto", 14F, FontStyle.Regular, GraphicsUnit.Pixel);
-            lblSettingsMemoryWritingExtendedReachDistance.Location = new Point(446, 238);
+            lblSettingsMemoryWritingExtendedReachDistance.Location = new Point(446, 149);
             lblSettingsMemoryWritingExtendedReachDistance.MouseState = MaterialSkin.MouseState.HOVER;
             lblSettingsMemoryWritingExtendedReachDistance.Name = "lblSettingsMemoryWritingExtendedReachDistance";
             lblSettingsMemoryWritingExtendedReachDistance.Size = new Size(18, 19);
@@ -6217,7 +6217,7 @@
             mcSettingsMemoryWritingGear.Controls.Add(swInstantADS);
             mcSettingsMemoryWritingGear.Depth = 0;
             mcSettingsMemoryWritingGear.ForeColor = Color.FromArgb(222, 0, 0, 0);
-            mcSettingsMemoryWritingGear.Location = new Point(14, 408);
+            mcSettingsMemoryWritingGear.Location = new Point(15, 326);
             mcSettingsMemoryWritingGear.Margin = new Padding(14, 16, 14, 16);
             mcSettingsMemoryWritingGear.MouseState = MaterialSkin.MouseState.HOVER;
             mcSettingsMemoryWritingGear.Name = "mcSettingsMemoryWritingGear";
@@ -6250,7 +6250,7 @@
             tabSettingsLoot.Location = new Point(4, 26);
             tabSettingsLoot.Margin = new Padding(0);
             tabSettingsLoot.Name = "tabSettingsLoot";
-            tabSettingsLoot.Size = new Size(1384, 728);
+            tabSettingsLoot.Size = new Size(1384, 731);
             tabSettingsLoot.TabIndex = 2;
             tabSettingsLoot.Text = "战利品/任务";
             // 
@@ -6421,7 +6421,7 @@
             tabSettingsAIFactions.Location = new Point(4, 26);
             tabSettingsAIFactions.Margin = new Padding(0);
             tabSettingsAIFactions.Name = "tabSettingsAIFactions";
-            tabSettingsAIFactions.Size = new Size(1384, 728);
+            tabSettingsAIFactions.Size = new Size(1384, 731);
             tabSettingsAIFactions.TabIndex = 3;
             tabSettingsAIFactions.Text = "AI派系";
             // 
@@ -6443,7 +6443,7 @@
             lstFactionEntries.MultiSelect = false;
             lstFactionEntries.Name = "lstFactionEntries";
             lstFactionEntries.OwnerDraw = true;
-            lstFactionEntries.Size = new Size(250, 705);
+            lstFactionEntries.Size = new Size(250, 708);
             lstFactionEntries.TabIndex = 44;
             lstFactionEntries.UseCompatibleStateImageBehavior = false;
             lstFactionEntries.View = View.Details;
@@ -6558,7 +6558,7 @@
             tabSettingsColors.Location = new Point(4, 26);
             tabSettingsColors.Margin = new Padding(0);
             tabSettingsColors.Name = "tabSettingsColors";
-            tabSettingsColors.Size = new Size(1384, 728);
+            tabSettingsColors.Size = new Size(1384, 731);
             tabSettingsColors.TabIndex = 4;
             tabSettingsColors.Text = "颜色";
             // 
