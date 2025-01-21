@@ -6,11 +6,8 @@ namespace eft_dma_radar
     public class Config
     {
         #region Json Properties
-        [JsonPropertyName("aimview")]
-        public bool Aimview { get; set; }
-
-        [JsonPropertyName("aimviewFOV")]
-        public float AimViewFOV { get; set; }
+        [JsonPropertyName("aimviewSettings")]
+        public AimviewSettings AimviewSettings { get; set; }
 
         [JsonPropertyName("chams")]
         public Dictionary<string, bool> Chams { get; set; }
@@ -213,6 +210,9 @@ namespace eft_dma_radar
         [JsonPropertyName("timeScaleFactor")]
         public float TimeScaleFactor { get; set; }
 
+        [JsonPropertyName("traderPrices")]
+        public bool TraderPrices { get; set; }
+
         [JsonPropertyName("uiScale")]
         public int UIScale { get; set; }
 
@@ -237,7 +237,7 @@ namespace eft_dma_radar
 
         #region Json Ignore
         [JsonIgnore]
-        public Dictionary<string, PaintColor.Colors> DefaultPaintColors = new Dictionary<string, PaintColor.Colors>()
+        public static Dictionary<string, PaintColor.Colors> DefaultPaintColors = new Dictionary<string, PaintColor.Colors>()
         {
             // AI
             ["Boss"] = new PaintColor.Colors { A = 255, R = 255, G = 0, B = 255 },
@@ -267,7 +267,7 @@ namespace eft_dma_radar
             ["ExfilClosedIcon"] = new PaintColor.Colors { A = 255, R = 255, G = 0, B = 0 },
 
             // Transit
-            ["TransitText"] = new PaintColor.Colors { A = 255, R = 255, G = 255, B = 255 },
+            ["TransitText"] = new PaintColor.Colors { A = 255, R = 255, G = 165, B = 0 },
             ["TransitIcon"] = new PaintColor.Colors { A = 255, R = 255, G = 165, B = 0 },
 
             // Loot/Quests
@@ -297,7 +297,7 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public Dictionary<string, int> DefaultAutoRefreshSettings = new Dictionary<string, int>()
+        public static Dictionary<string, int> DefaultAutoRefreshSettings = new Dictionary<string, int>()
         {
             ["海关"] = 30,
             ["工厂"] = 30,
@@ -314,7 +314,7 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public Dictionary<string, bool> DefaultChamsSettings = new Dictionary<string, bool>()
+        public static Dictionary<string, bool> DefaultChamsSettings = new Dictionary<string, bool>()
         {
             ["AlternateMethod"] = false,
             ["Bosses"] = false,
@@ -331,7 +331,7 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public Dictionary<string, bool> DefaultContainerSettings = new Dictionary<string, bool>()
+        public static Dictionary<string, bool> DefaultContainerSettings = new Dictionary<string, bool>()
         {
             ["Enabled"] = false,
             ["Bank cash register"] = false,
@@ -363,7 +363,7 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public Dictionary<string, int> DefaultLootPingSettings = new Dictionary<string, int>()
+        public static Dictionary<string, int> DefaultLootPingSettings = new Dictionary<string, int>()
         {
             ["AnimationSpeed"] = 1000,
             ["Radius"] = 20,
@@ -371,7 +371,7 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public Dictionary<string, bool> DefaultMaxSkillsSettings = new Dictionary<string, bool>()
+        public static Dictionary<string, bool> DefaultMaxSkillsSettings = new Dictionary<string, bool>()
         {
             ["Endurance"] = false,
             ["Strength"] = false,
@@ -393,7 +393,7 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public Dictionary<string, PlayerInformationSettings> DefaultPlayerInformationSettings = new Dictionary<string, PlayerInformationSettings>()
+        public static Dictionary<string, PlayerInformationSettings> DefaultPlayerInformationSettings = new Dictionary<string, PlayerInformationSettings>()
         {
             ["Boss"] = new PlayerInformationSettings(true, true, true, true, 15, 255, 0, 13, false, false, false, false, false, false, false, false, false, false, 0, 13),
             ["BossFollower"] = new PlayerInformationSettings(true, true, true, true, 15, 255, 0, 13, false, false, false, false, false, false, false, false, false, false, 0, 13),
@@ -411,10 +411,27 @@ namespace eft_dma_radar
         };
 
         [JsonIgnore]
-        public ThermalSettings DefaultThermalSettings = new ThermalSettings(1f, 0.0011f, -0.1f, 0);
+        public static ThermalSettings DefaultThermalSettings = new ThermalSettings(1f, 0.0011f, -0.1f, 0);
 
         [JsonIgnore]
-        public WorldSettings DefaultWorldSettings = new WorldSettings(false, false, false, false, false, false, false, false, false, 1, 1, 1);
+        public static WorldSettings DefaultWorldSettings = new WorldSettings(false, false, false, false, false, false, false, false, false, 1, 1, 1);
+
+        [JsonIgnore]
+        public static Dictionary<string, AimviewObjectSettings> DefaultAimviewObjectSettings = new Dictionary<string, AimviewObjectSettings>()
+        {
+            ["Player"] = new AimviewObjectSettings(true, true, false, false, 150, 150),
+            ["LooseLoot"] = new AimviewObjectSettings(true, true, true, true, 150, 150),
+            ["Corpse"] = new AimviewObjectSettings(true, true, true, true, 150, 150),
+            ["QuestItem"] = new AimviewObjectSettings(true, true, true, false, 150, 150),
+            ["Container"] = new AimviewObjectSettings(true, true, true, false, 150, 150),
+            ["Tripwire"] = new AimviewObjectSettings(true, true, false, false, 150, 150),
+            ["QuestZone"] = new AimviewObjectSettings(true, true, true, false, 150, 150),
+            ["Exfil"] = new AimviewObjectSettings(true, true, true, false, 150, 150),
+            ["Transit"] = new AimviewObjectSettings(true, true, true, false, 150, 150)
+        };
+
+        [JsonIgnore]
+        public static AimviewSettings DefaultAimviewSettings = new AimviewSettings(false, 200, 200, 0, 0, string.Empty, Config.DefaultAimviewObjectSettings);
 
         [JsonIgnore]
         public List<LootFilterManager.Filter> Filters
@@ -461,8 +478,7 @@ namespace eft_dma_radar
 
         public Config()
         {
-            AimViewFOV = 30;
-            Aimview = false;
+            AimviewSettings = DefaultAimviewSettings;
             Chams = DefaultChamsSettings;
             DefaultZoom = 100;
             EnemyCount = false;
@@ -509,7 +525,7 @@ namespace eft_dma_radar
             NoWeaponMalfunctions = false;
             OpticThermalSetting = DefaultThermalSettings;
             OpticThermalVision = false;
-            PaintColors = DefaultPaintColors;
+            PaintColors = Config.DefaultPaintColors;
             ParallelOptions = new ParallelOptions { MaxDegreeOfParallelism = 2 };
             PlayerInformationSettings = DefaultPlayerInformationSettings;
             PrimaryTeammateId = null;
@@ -530,6 +546,7 @@ namespace eft_dma_radar
             ThrowPowerStrength = 1;
             TimeScale = false;
             TimeScaleFactor = 1.8f;
+            TraderPrices = false;
             UIScale = 100;
             UnknownQuestItems = false;
             VSync = true;
@@ -569,6 +586,7 @@ namespace eft_dma_radar
                 }
             }
         }
+
         /// <summary>
         /// Save to Config.json
         /// </summary>

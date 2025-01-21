@@ -1,6 +1,7 @@
 using System.Collections.ObjectModel;
 using System.Net;
 using System.Numerics;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Text.Json;
 
@@ -37,10 +38,10 @@ namespace eft_dma_radar
         {
             TarkovDevResponse jsonResponse;
 
-            //if (ShouldFetchDataFromApi())
+            if (ShouldFetchDataFromApi())
                 jsonResponse = FetchDataFromApi();
-            //else
-                //jsonResponse = LoadDataFromFile();
+            else
+                jsonResponse = LoadDataFromFile();
 
             if (jsonResponse is not null)
             {
@@ -368,8 +369,8 @@ namespace eft_dma_radar
                             position = new ObjectiveZones.Position
                             {
                                 x = z.position.x,
-                                y = z.position.z,
-                                z = z.position.y
+                                y = z.position.y,
+                                z = z.position.z
                             }
                         }).ToList(),
                         Items = objective.items?.Select(i => new ObjectiveItem
@@ -458,7 +459,7 @@ namespace eft_dma_radar
                     var newExtract = new Maps.Extract()
                     {
                         name = extract.name,
-                        position = new Vector3(extract.position.x, extract.position.z, extract.position.y)
+                        position = new Vector3(extract.position.x, extract.position.y, extract.position.z)
                     };
 
                     newMap.extracts.Add(newExtract);
@@ -470,7 +471,7 @@ namespace eft_dma_radar
                     {
                         id = transit.id,
                         description = transit.description,
-                        position = new Vector3(transit.position.x, transit.position.z, transit.position.y)
+                        position = new Vector3(transit.position.x, transit.position.y, transit.position.z)
                     };
 
                     newMap.transits.Add(newTransit);
@@ -492,14 +493,20 @@ namespace eft_dma_radar
 
         public static int GetItemValue(TarkovItem item)
         {
-            int bestPrice = item.avg24hPrice ?? 0;
+            var bestPrice = item.avg24hPrice ?? 0;
+            var useTraderPrices = Program.Config.TraderPrices;
+
             foreach (var vendor in item.sellFor)
+            {
+                var isFleaMarket = vendor.vendor.normalizedName.Equals("flea-market", StringComparison.OrdinalIgnoreCase);
+                if (vendor.price > bestPrice)
                 {
-                    if (vendor.price > bestPrice)
-                    {
-                        bestPrice = vendor.price;
-                    }
+                    if (useTraderPrices && isFleaMarket)
+                        continue;
+
+                    bestPrice = vendor.price;
                 }
+            }
 
             return bestPrice;
         }
@@ -521,11 +528,16 @@ namespace eft_dma_radar
         public int? high24hPrice { get; set; }
         public double weight { get; set; } 
         public List<Category> categories { get; set; } = new List<Category>();
-        public List<VendorPrice> sellFor { get; set; } = new List<VendorPrice>(); 
+        public List<VendorPrice> sellFor { get; set; } = new List<VendorPrice>();
+
+        public class Vendor
+        {
+            public string normalizedName { get; set; }
+        }
 
         public class VendorPrice
         {
-            public string vendorName { get; set; }
+            public Vendor vendor { get; set; }
             public int price { get; set; }
         }
 

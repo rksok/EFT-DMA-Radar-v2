@@ -25,7 +25,6 @@ namespace eft_dma_radar
         private static InputManager _inputManager;
 
         public static Game.GameStatus GameStatus = Game.GameStatus.NotFound;
-
         public static Game Game => _game;
 
         #region Getters
